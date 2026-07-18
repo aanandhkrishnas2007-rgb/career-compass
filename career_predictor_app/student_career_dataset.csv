@@ -1,0 +1,1001 @@
+Student_ID,Name,Age,Degree,CGPA,Programming_Skill,Python_Skill,Java_Skill,SQL_Skill,Machine_Learning_Skill,Web_Development_Skill,Networking_Skill,Communication_Skill,Problem_Solving_Skill,Creativity_Skill,Interest_Area,Internship,Number_of_Projects,Certifications,Recommended_Career
+1,Priya,19,B.Tech Computer Science,8.97,2,5,5,4,0,4,3,2,2,1,Artificial Intelligence,Yes,1,1,Web Developer
+2,Neha,18,B.Sc Computer Science,8.86,5,4,2,0,1,5,3,4,2,4,Programming,No,2,1,Web Developer
+3,Priya,19,B.Tech IT,7.52,3,0,5,3,4,0,3,3,5,3,Artificial Intelligence,No,5,4,Data Scientist
+4,Vikram,19,B.Tech Computer Science,8.65,3,3,2,3,5,2,1,1,2,1,Programming,No,3,5,Database Administrator
+5,Neha,19,BCA,8.14,2,2,5,5,4,1,5,2,4,4,Programming,Yes,3,0,Data Analyst
+6,Arjun,24,B.Tech Electronics,6.26,5,3,5,3,1,2,1,3,2,4,Data Science,No,6,4,UI/UX Designer
+7,Riya,23,B.Sc Computer Science,9.99,2,0,0,1,5,1,5,5,4,1,Web Development,Yes,6,3,Cybersecurity Specialist
+8,Kiran,25,B.Tech Electronics,9.88,1,5,2,0,2,3,1,1,5,3,Web Development,Yes,4,4,Data Analyst
+9,Neha,19,B.Tech Electronics,9.37,5,2,1,4,4,0,4,5,2,2,Programming,No,0,0,Cybersecurity Specialist
+10,Riya,22,B.Sc Computer Science,6.23,5,0,4,1,1,5,3,1,1,4,Cybersecurity,Yes,4,4,Web Developer
+11,Kiran,24,B.Sc Computer Science,9.72,2,3,4,3,0,1,1,3,4,3,Artificial Intelligence,No,0,4,Data Scientist
+12,Riya,21,B.Sc Computer Science,6.03,1,2,0,4,1,2,5,2,1,1,Web Development,Yes,8,1,Cybersecurity Specialist
+13,Arjun,25,B.Sc Computer Science,9.14,4,5,3,2,3,3,3,2,1,1,Business,Yes,1,0,Business Analyst
+14,Aarav,23,B.Tech IT,6.99,2,3,1,2,3,1,0,5,4,2,Web Development,Yes,0,5,Business Analyst
+15,Kiran,19,B.Sc Computer Science,6.67,4,0,1,3,0,3,2,4,2,4,Business,No,4,3,UI/UX Designer
+16,Rahul,25,BCA,6.76,2,0,5,2,0,0,4,1,5,5,Web Development,Yes,0,4,Cybersecurity Specialist
+17,Neha,20,B.Tech IT,8.38,2,1,4,4,0,4,0,4,1,5,Web Development,No,4,1,Web Developer
+18,Ananya,21,B.Tech Electronics,7.58,3,0,3,4,4,0,0,4,3,1,Cybersecurity,Yes,8,2,Data Analyst
+19,Vikram,23,B.Tech IT,9.52,3,4,5,2,4,5,4,3,2,4,Artificial Intelligence,No,1,1,Machine Learning Engineer
+20,Vikram,19,B.Tech IT,8.97,2,1,5,2,1,5,5,3,3,5,Business,No,8,3,Web Developer
+21,Rahul,18,B.Tech IT,8.54,3,1,5,2,1,5,3,1,1,3,Cybersecurity,No,8,0,Web Developer
+22,Neha,19,BCA,8.18,3,3,1,0,2,2,0,5,5,2,Programming,Yes,3,5,Data Scientist
+23,Rahul,24,BCA,9.7,2,0,1,5,2,3,5,2,2,4,Business,Yes,4,1,Cybersecurity Specialist
+24,Vikram,24,B.Tech Computer Science,9.43,2,2,1,1,0,5,1,2,4,3,Web Development,No,4,0,Web Developer
+25,Neha,23,BBA,8.72,5,2,1,4,2,0,0,3,1,1,Cybersecurity,No,5,5,Database Administrator
+26,Rahul,24,B.Tech IT,7.54,5,5,3,0,4,4,5,2,3,1,Design,Yes,5,3,Machine Learning Engineer
+27,Arjun,23,B.Com,8.65,1,5,3,2,3,5,2,3,5,3,Cybersecurity,Yes,3,3,Web Developer
+28,Sneha,20,B.Tech Electronics,7.62,1,3,4,4,5,2,3,3,3,2,Web Development,No,3,4,Data Analyst
+29,Rahul,20,B.Tech IT,7.14,5,5,2,1,1,1,0,3,1,2,Artificial Intelligence,Yes,7,4,Data Scientist
+30,Ananya,25,BBA,9.54,5,3,1,1,5,5,0,2,4,4,Business,Yes,6,1,Web Developer
+31,Ananya,25,B.Tech Computer Science,8.23,1,5,4,4,4,2,3,4,2,4,Cybersecurity,No,8,3,Machine Learning Engineer
+32,Neha,25,MCA,7.04,2,5,1,2,3,0,5,3,5,4,Programming,Yes,4,2,Cybersecurity Specialist
+33,Riya,19,BCA,6.6,4,3,3,2,4,3,3,2,2,1,Artificial Intelligence,Yes,6,3,Data Scientist
+34,Sneha,18,BBA,7.91,3,4,5,5,4,4,1,3,4,4,Web Development,Yes,4,3,Machine Learning Engineer
+35,Arjun,18,BBA,7.34,4,4,4,0,3,4,4,2,4,2,Design,Yes,1,5,Web Developer
+36,Aarav,20,MCA,6.73,3,3,2,2,3,2,3,4,3,2,Programming,Yes,7,0,Business Analyst
+37,Neha,23,B.Sc Computer Science,8.6,1,0,4,1,1,1,3,1,2,2,Design,Yes,3,3,Web Developer
+38,Priya,20,B.Tech IT,9.11,2,0,2,4,5,3,3,3,1,5,Design,Yes,1,4,UI/UX Designer
+39,Sneha,19,B.Tech Electronics,9.4,5,2,4,3,5,2,0,1,5,1,Cybersecurity,No,0,3,Database Administrator
+40,Riya,19,BBA,9.84,4,5,4,5,2,4,4,2,4,2,Business,No,7,3,Data Analyst
+41,Sneha,22,B.Com,9.41,1,3,4,4,5,3,2,3,4,2,Artificial Intelligence,No,5,1,Data Analyst
+42,Priya,21,B.Com,9.19,3,4,0,4,1,0,1,3,5,3,Design,No,7,4,Data Analyst
+43,Neha,25,MCA,7.79,1,3,5,1,2,5,4,1,3,2,Programming,No,8,4,Web Developer
+44,Sneha,24,B.Com,7.41,4,1,0,5,1,2,0,3,3,3,Design,Yes,3,1,Data Analyst
+45,Vikram,22,B.Tech Electronics,9.92,2,1,2,0,5,4,1,3,2,3,Programming,Yes,0,4,Web Developer
+46,Arjun,20,MCA,6.41,1,3,3,2,1,0,2,5,3,4,Business,No,1,0,UI/UX Designer
+47,Sneha,25,B.Tech IT,8.31,1,2,0,1,0,4,3,2,2,5,Cybersecurity,Yes,8,3,Web Developer
+48,Priya,25,B.Tech Electronics,9.44,4,0,4,5,0,1,5,3,5,5,Data Science,No,1,1,Data Analyst
+49,Priya,20,B.Tech IT,6.63,4,2,0,1,2,5,2,4,5,4,Design,No,1,5,Web Developer
+50,Sneha,22,B.Sc Computer Science,7.7,5,1,0,0,1,2,4,2,2,3,Design,No,7,0,Cybersecurity Specialist
+51,Priya,22,BBA,9.77,5,0,4,0,3,5,2,5,4,4,Cybersecurity,No,0,0,Web Developer
+52,Neha,18,B.Tech Electronics,8.3,2,2,1,4,3,5,3,4,5,4,Artificial Intelligence,No,5,3,Data Analyst
+53,Arjun,23,B.Tech IT,9.43,3,5,3,4,0,3,0,4,4,3,Programming,No,5,0,Data Analyst
+54,Sneha,18,MCA,7.65,2,3,5,3,0,1,2,5,3,5,Cybersecurity,Yes,4,3,UI/UX Designer
+55,Ananya,19,B.Tech Computer Science,9.89,5,4,0,4,3,0,1,2,2,3,Business,Yes,7,0,Business Analyst
+56,Arjun,25,B.Tech Electronics,8.04,3,1,3,4,1,3,1,4,4,4,Cybersecurity,Yes,1,2,Data Analyst
+57,Arjun,23,B.Tech Electronics,9.28,3,5,3,1,3,4,3,3,5,5,Programming,No,8,4,Web Developer
+58,Ananya,25,B.Com,9.48,2,3,0,2,5,3,5,5,4,2,Business,No,6,5,Cybersecurity Specialist
+59,Vikram,25,B.Tech Computer Science,6.5,5,0,4,3,0,5,1,3,1,4,Web Development,Yes,1,3,Web Developer
+60,Rahul,23,BBA,8.6,3,5,5,3,4,0,4,5,4,3,Artificial Intelligence,Yes,4,1,Machine Learning Engineer
+61,Arjun,24,B.Tech IT,9.04,1,0,0,2,0,2,2,4,2,3,Programming,No,2,1,Business Analyst
+62,Aarav,20,BCA,6.7,5,3,4,1,1,3,5,4,5,2,Programming,No,4,5,Cybersecurity Specialist
+63,Sneha,25,B.Tech Electronics,8.71,2,4,2,5,3,5,2,1,4,3,Web Development,No,3,3,Data Analyst
+64,Priya,19,B.Sc Computer Science,7.53,3,0,5,3,2,0,4,5,3,3,Business,Yes,7,2,Cybersecurity Specialist
+65,Neha,23,B.Sc Computer Science,8.55,5,5,5,0,2,3,0,3,2,1,Cybersecurity,No,2,0,Web Developer
+66,Rahul,24,BCA,6.8,5,2,1,2,3,2,5,3,5,5,Business,No,1,3,Cybersecurity Specialist
+67,Rahul,20,B.Sc Computer Science,9.44,4,3,0,2,4,0,3,5,3,1,Programming,No,6,5,Cybersecurity Specialist
+68,Aarav,21,MCA,6.1,5,5,0,5,3,5,2,3,5,2,Design,No,1,1,Data Analyst
+69,Rahul,18,B.Tech Electronics,9.98,1,1,3,3,2,5,5,1,2,5,Design,No,2,3,Web Developer
+70,Vikram,25,BBA,9.76,3,3,3,1,2,0,5,1,3,2,Programming,No,0,3,Cybersecurity Specialist
+71,Riya,21,B.Tech IT,9.8,4,0,0,2,1,1,4,1,2,5,Data Science,Yes,8,1,Cybersecurity Specialist
+72,Neha,21,B.Sc Computer Science,7.31,2,1,1,4,2,1,0,5,1,3,Design,Yes,2,0,Database Administrator
+73,Rahul,21,B.Com,6.06,3,4,0,5,0,3,3,1,2,4,Business,No,8,4,UI/UX Designer
+74,Sneha,25,B.Sc Computer Science,9.78,1,5,0,0,3,3,3,5,3,4,Design,Yes,7,5,UI/UX Designer
+75,Riya,19,B.Tech IT,7.29,2,4,5,4,4,5,2,1,2,3,Web Development,No,7,4,Machine Learning Engineer
+76,Neha,24,B.Tech IT,9.17,1,3,1,3,2,3,3,5,2,4,Web Development,Yes,5,3,UI/UX Designer
+77,Riya,22,B.Com,9.81,4,0,3,0,5,5,2,1,1,1,Business,Yes,8,0,Web Developer
+78,Neha,23,B.Tech IT,7.64,4,2,2,0,4,4,1,1,3,5,Data Science,No,3,0,Web Developer
+79,Vikram,23,B.Tech IT,9.05,5,4,4,5,5,4,0,2,4,5,Cybersecurity,No,0,1,Machine Learning Engineer
+80,Sneha,22,B.Com,7.4,2,0,1,5,5,0,0,2,5,4,Design,Yes,6,3,Data Analyst
+81,Arjun,23,BCA,7.48,3,0,1,1,4,0,5,5,5,1,Artificial Intelligence,No,7,5,Cybersecurity Specialist
+82,Arjun,25,MCA,7.66,2,3,0,2,5,5,4,5,1,3,Web Development,No,0,1,Web Developer
+83,Priya,18,B.Tech Computer Science,6.82,2,2,0,0,3,5,3,2,3,3,Data Science,Yes,6,4,Web Developer
+84,Arjun,23,B.Tech IT,7.59,1,0,2,4,3,4,3,4,1,4,Design,No,4,0,Web Developer
+85,Neha,18,B.Com,6.69,5,3,0,1,3,4,3,4,3,1,Cybersecurity,Yes,6,2,Web Developer
+86,Ananya,21,B.Com,9.12,1,4,1,2,2,5,5,5,1,5,Business,Yes,3,0,Web Developer
+87,Sneha,22,B.Sc Computer Science,6.69,2,3,4,4,3,5,4,1,2,4,Design,No,5,1,Web Developer
+88,Rahul,19,MCA,7.77,3,2,4,0,2,3,3,3,5,1,Artificial Intelligence,Yes,5,2,Data Scientist
+89,Neha,19,BBA,7.85,5,5,1,2,4,3,4,1,4,5,Data Science,Yes,7,0,Machine Learning Engineer
+90,Neha,19,BCA,6.16,4,4,1,2,2,2,3,4,5,5,Web Development,No,0,5,UI/UX Designer
+91,Riya,19,B.Com,6.38,4,1,2,0,4,5,1,3,3,5,Programming,No,6,1,Web Developer
+92,Neha,19,B.Tech Electronics,8.24,3,5,5,3,4,2,0,2,5,1,Programming,No,2,1,Machine Learning Engineer
+93,Arjun,25,B.Sc Computer Science,6.91,2,0,4,4,5,4,0,2,1,3,Design,No,2,4,Web Developer
+94,Kiran,20,BCA,6.72,5,3,2,5,5,1,3,2,4,1,Cybersecurity,No,7,1,Data Analyst
+95,Ananya,21,B.Tech Electronics,9.86,4,3,3,2,3,4,4,2,3,5,Web Development,Yes,3,4,Web Developer
+96,Priya,22,B.Tech Computer Science,8.56,3,0,2,0,1,2,3,5,1,5,Cybersecurity,Yes,6,0,UI/UX Designer
+97,Neha,25,B.Com,9.72,4,2,1,3,0,2,1,1,4,5,Artificial Intelligence,No,1,5,UI/UX Designer
+98,Riya,20,BCA,6.15,4,4,0,0,0,2,1,2,4,4,Business,Yes,8,5,UI/UX Designer
+99,Kiran,24,B.Tech IT,9.1,2,1,3,5,4,3,0,3,1,1,Artificial Intelligence,No,8,0,Data Scientist
+100,Kiran,21,BCA,7.17,1,4,3,1,5,5,0,5,3,2,Cybersecurity,No,1,4,Machine Learning Engineer
+101,Neha,18,BBA,9.49,1,5,0,2,0,2,1,4,3,3,Design,Yes,5,1,Software Developer
+102,Vikram,23,BCA,9.32,4,0,5,3,0,2,1,4,2,2,Artificial Intelligence,Yes,0,2,Data Scientist
+103,Sneha,24,MCA,7.01,2,5,2,2,0,2,3,3,3,1,Web Development,No,6,2,Data Analyst
+104,Vikram,25,B.Com,9.7,5,0,3,4,1,4,2,3,1,4,Programming,Yes,1,2,Web Developer
+105,Arjun,22,MCA,8.41,4,3,0,5,2,4,3,2,4,3,Programming,Yes,1,5,Data Analyst
+106,Neha,23,BCA,9.81,2,1,0,1,5,2,2,5,4,1,Web Development,Yes,2,5,UI/UX Designer
+107,Arjun,23,MCA,9.05,5,3,2,5,2,1,0,2,5,3,Artificial Intelligence,Yes,7,4,Data Analyst
+108,Neha,19,B.Tech Electronics,9.1,4,5,3,1,0,1,0,2,5,3,Web Development,Yes,7,0,Cybersecurity Specialist
+109,Neha,19,B.Tech Electronics,9.57,2,1,0,1,1,1,3,2,3,5,Artificial Intelligence,No,8,4,UI/UX Designer
+110,Rahul,25,BCA,8.45,1,5,5,3,4,3,3,1,3,4,Business,Yes,2,2,Machine Learning Engineer
+111,Ananya,25,MCA,8.72,3,1,1,3,4,0,0,2,5,5,Cybersecurity,Yes,4,1,UI/UX Designer
+112,Ananya,23,B.Sc Computer Science,7.38,5,1,5,4,2,1,5,3,1,3,Programming,Yes,8,5,Cybersecurity Specialist
+113,Aarav,20,BCA,8.63,5,0,0,0,5,4,2,3,5,1,Design,Yes,6,4,Web Developer
+114,Priya,25,B.Tech Electronics,8.57,3,2,3,0,5,0,1,4,2,4,Web Development,No,7,3,UI/UX Designer
+115,Priya,23,BCA,7.25,3,2,4,4,0,2,1,3,4,2,Web Development,Yes,4,3,Data Analyst
+116,Sneha,20,B.Tech IT,6.2,4,1,2,4,5,2,1,5,4,2,Business,Yes,7,4,Data Analyst
+117,Kiran,25,B.Tech Electronics,7.99,1,1,1,4,2,0,0,4,5,4,Programming,No,7,2,Data Analyst
+118,Kiran,18,B.Tech IT,7.72,3,0,3,0,4,4,1,3,4,3,Programming,No,1,3,Web Developer
+119,Kiran,25,B.Tech Electronics,9.3,5,0,3,2,2,4,2,5,1,2,Business,Yes,3,4,Web Developer
+120,Riya,24,B.Tech Computer Science,6.18,2,3,1,4,4,1,2,3,4,5,Cybersecurity,No,2,3,Data Analyst
+121,Aarav,22,B.Com,8.03,5,2,3,0,2,2,5,5,4,5,Artificial Intelligence,No,4,5,Cybersecurity Specialist
+122,Priya,25,B.Tech Electronics,9.87,5,4,3,1,4,5,5,5,2,1,Cybersecurity,No,2,5,Machine Learning Engineer
+123,Priya,18,B.Tech IT,6.76,4,3,5,1,3,4,4,3,4,2,Web Development,Yes,2,4,Web Developer
+124,Priya,23,MCA,8.1,3,2,4,2,5,5,5,2,4,5,Design,No,7,1,Web Developer
+125,Arjun,22,B.Tech Electronics,6.9,3,2,3,2,4,5,2,3,2,4,Programming,Yes,8,3,Web Developer
+126,Vikram,23,BCA,7.16,3,5,2,5,3,1,1,1,3,4,Business,No,8,5,Data Analyst
+127,Sneha,20,B.Tech IT,8.46,5,5,4,1,5,1,0,2,2,1,Artificial Intelligence,No,5,5,Machine Learning Engineer
+128,Riya,19,BCA,6.02,5,3,5,1,2,2,2,2,4,4,Design,Yes,1,5,UI/UX Designer
+129,Vikram,21,B.Tech Computer Science,9.65,2,3,3,1,5,2,0,4,2,1,Artificial Intelligence,No,1,2,Data Scientist
+130,Neha,25,MCA,9.56,2,1,0,2,1,5,3,5,4,3,Design,No,2,0,Web Developer
+131,Vikram,22,B.Sc Computer Science,6.7,4,0,3,5,0,1,1,4,5,3,Web Development,No,3,0,Data Analyst
+132,Rahul,24,B.Sc Computer Science,7.79,3,5,4,0,2,5,2,3,3,5,Design,Yes,0,5,Web Developer
+133,Sneha,25,B.Tech Electronics,6.64,5,2,4,1,1,1,3,3,1,3,Data Science,No,5,3,Business Analyst
+134,Ananya,21,B.Sc Computer Science,8.72,5,4,5,2,0,4,0,1,5,4,Artificial Intelligence,Yes,8,1,Web Developer
+135,Sneha,23,MCA,6.46,2,4,3,0,3,1,4,5,4,1,Web Development,No,0,4,Cybersecurity Specialist
+136,Vikram,22,B.Tech Computer Science,7.58,1,0,3,2,5,0,4,2,5,1,Artificial Intelligence,Yes,7,0,Cybersecurity Specialist
+137,Kiran,24,BCA,9.08,4,3,3,0,5,5,4,3,4,4,Data Science,No,1,1,Web Developer
+138,Neha,24,BCA,8.91,2,3,5,5,4,3,4,1,1,3,Web Development,Yes,3,3,Cybersecurity Specialist
+139,Aarav,20,B.Tech Electronics,6.75,1,0,1,1,0,0,4,1,4,5,Artificial Intelligence,No,0,1,Cybersecurity Specialist
+140,Ananya,24,MCA,6.94,2,2,1,5,4,2,4,1,2,5,Cybersecurity,No,3,2,Cybersecurity Specialist
+141,Arjun,21,BBA,7.2,1,5,5,3,4,3,0,5,5,2,Programming,No,8,2,Machine Learning Engineer
+142,Kiran,24,BCA,7.2,2,1,2,5,1,3,0,5,4,2,Cybersecurity,No,6,4,Data Analyst
+143,Priya,20,BBA,6.97,2,2,0,4,5,1,0,3,1,4,Programming,No,0,0,UI/UX Designer
+144,Neha,21,MCA,6.84,3,1,5,0,5,3,1,3,1,2,Design,Yes,6,1,Business Analyst
+145,Neha,22,BBA,7.87,3,4,3,3,0,5,3,3,3,3,Business,No,3,2,Web Developer
+146,Arjun,24,B.Tech Computer Science,8.25,2,4,4,4,5,3,2,2,1,3,Data Science,Yes,5,1,Machine Learning Engineer
+147,Aarav,21,MCA,8.2,3,3,1,5,2,1,1,3,4,4,Design,No,2,4,Data Analyst
+148,Riya,18,B.Tech IT,9.78,1,5,1,0,5,1,0,1,4,2,Data Science,No,5,0,Machine Learning Engineer
+149,Rahul,25,MCA,6.06,5,0,4,5,2,4,2,5,4,1,Artificial Intelligence,No,2,0,Data Analyst
+150,Rahul,20,B.Sc Computer Science,6.77,5,3,0,2,3,3,4,3,3,3,Data Science,Yes,4,5,Cybersecurity Specialist
+151,Rahul,18,B.Tech IT,7.62,4,5,0,5,1,0,3,5,4,1,Business,No,5,4,Data Analyst
+152,Priya,18,B.Sc Computer Science,6.85,5,0,5,2,4,4,5,4,3,1,Artificial Intelligence,Yes,5,0,Web Developer
+153,Neha,20,BBA,9.72,3,4,3,5,4,2,3,2,5,2,Business,Yes,1,4,Machine Learning Engineer
+154,Neha,18,B.Tech IT,7.75,1,4,3,2,0,5,2,3,5,5,Business,No,7,1,Web Developer
+155,Arjun,24,BBA,6.74,5,2,1,5,0,0,2,4,1,5,Data Science,No,2,5,UI/UX Designer
+156,Neha,23,B.Com,6.43,1,2,0,1,0,1,3,3,4,3,Web Development,No,1,0,Data Scientist
+157,Vikram,19,B.Com,9.45,1,0,5,4,1,4,4,3,4,4,Data Science,No,2,1,Data Analyst
+158,Rahul,22,B.Tech Electronics,7.97,1,3,2,3,0,2,2,2,4,3,Data Science,No,3,3,Database Administrator
+159,Priya,20,B.Tech Electronics,6.03,4,2,3,2,3,5,4,3,5,4,Data Science,No,5,4,Web Developer
+160,Kiran,25,B.Com,6.71,4,4,1,2,3,2,3,3,3,4,Programming,Yes,3,4,UI/UX Designer
+161,Ananya,20,B.Tech Computer Science,9.81,4,5,0,3,5,3,1,2,4,3,Design,No,3,2,Machine Learning Engineer
+162,Rahul,24,BBA,6.3,5,4,4,5,3,4,0,4,5,4,Business,No,8,4,Data Analyst
+163,Rahul,19,B.Sc Computer Science,8.63,3,4,5,5,5,3,2,2,5,1,Business,No,1,0,Machine Learning Engineer
+164,Sneha,22,B.Sc Computer Science,8.04,5,1,3,2,3,3,5,5,5,5,Cybersecurity,Yes,5,0,Cybersecurity Specialist
+165,Sneha,19,B.Tech Electronics,7.66,1,2,2,3,1,4,3,1,2,3,Programming,No,1,3,Web Developer
+166,Arjun,23,B.Tech IT,7.2,1,5,1,5,1,4,1,1,3,1,Cybersecurity,Yes,5,4,Data Analyst
+167,Priya,25,B.Sc Computer Science,9.19,2,0,5,4,1,3,4,2,4,4,Web Development,No,0,5,Data Analyst
+168,Neha,21,B.Tech Electronics,9.01,1,1,2,2,1,3,0,5,1,5,Programming,No,8,5,UI/UX Designer
+169,Priya,24,BBA,8.35,3,1,5,5,2,4,4,3,4,5,Artificial Intelligence,Yes,5,0,Data Analyst
+170,Sneha,22,B.Tech IT,6.73,2,4,1,4,3,3,1,5,4,4,Web Development,Yes,8,1,Data Analyst
+171,Sneha,22,BCA,6.75,4,0,3,1,1,3,4,5,1,3,Cybersecurity,No,6,5,Cybersecurity Specialist
+172,Kiran,24,MCA,7.95,1,2,0,2,1,4,2,5,1,2,Data Science,No,7,4,Web Developer
+173,Sneha,19,B.Tech IT,7.07,5,5,3,4,1,3,0,3,5,1,Design,Yes,4,0,Data Analyst
+174,Ananya,22,B.Com,9.45,1,1,5,4,5,2,5,4,1,2,Cybersecurity,No,2,4,Cybersecurity Specialist
+175,Rahul,21,B.Sc Computer Science,9.22,5,4,4,1,2,5,2,3,5,3,Programming,No,8,5,Web Developer
+176,Arjun,20,BBA,9.68,3,1,5,2,1,5,3,2,2,2,Web Development,Yes,4,5,Web Developer
+177,Neha,24,MCA,6.3,1,5,2,3,3,2,4,4,5,3,Artificial Intelligence,Yes,7,5,Cybersecurity Specialist
+178,Aarav,19,BBA,6.87,4,2,2,2,4,4,1,2,4,3,Cybersecurity,No,5,5,Web Developer
+179,Rahul,18,B.Tech IT,8.5,4,3,3,0,3,1,5,1,1,2,Data Science,No,2,2,Cybersecurity Specialist
+180,Sneha,23,B.Tech Electronics,6.33,2,5,5,1,3,5,0,1,4,3,Design,Yes,0,1,Web Developer
+181,Rahul,19,BCA,8.37,5,5,2,0,3,5,1,4,1,1,Web Development,Yes,3,3,Web Developer
+182,Priya,19,B.Tech IT,7.25,3,5,5,1,0,4,4,2,4,2,Artificial Intelligence,Yes,7,2,Web Developer
+183,Vikram,20,BBA,8.46,4,1,0,4,5,3,2,2,1,1,Web Development,No,2,1,Database Administrator
+184,Aarav,19,B.Sc Computer Science,8.21,5,5,2,1,4,4,4,5,3,1,Data Science,No,4,5,Machine Learning Engineer
+185,Ananya,21,MCA,7.54,2,4,0,2,2,1,3,4,5,1,Business,No,5,4,Business Analyst
+186,Arjun,25,B.Tech IT,6.07,1,0,0,3,4,2,5,1,3,2,Design,No,6,5,Cybersecurity Specialist
+187,Arjun,19,BCA,7.11,3,1,4,2,3,4,5,1,5,2,Business,Yes,4,5,Web Developer
+188,Ananya,21,B.Tech Computer Science,6.98,4,4,0,2,5,5,5,1,4,5,Design,Yes,1,0,Machine Learning Engineer
+189,Vikram,18,BCA,7.99,3,1,2,1,5,2,5,5,5,3,Artificial Intelligence,Yes,5,3,Cybersecurity Specialist
+190,Riya,19,B.Tech Electronics,8.85,5,4,2,0,3,4,1,1,4,4,Programming,Yes,4,0,Web Developer
+191,Arjun,19,B.Sc Computer Science,8.96,1,0,3,2,3,1,1,1,1,2,Business,Yes,8,5,Business Analyst
+192,Sneha,21,B.Com,6.99,3,2,0,4,5,0,1,3,1,5,Data Science,Yes,6,0,UI/UX Designer
+193,Sneha,22,B.Tech Electronics,7.31,5,1,2,4,2,5,4,4,1,3,Data Science,No,5,4,Web Developer
+194,Priya,21,B.Sc Computer Science,6.6,4,2,5,5,0,2,0,1,2,5,Business,No,4,0,UI/UX Designer
+195,Ananya,21,BBA,7.97,1,0,1,4,3,5,2,2,3,1,Web Development,Yes,1,4,Data Analyst
+196,Priya,24,B.Tech IT,8.37,1,2,2,2,3,5,5,4,2,2,Programming,No,7,2,Web Developer
+197,Vikram,19,B.Sc Computer Science,6.54,5,1,3,3,2,3,0,1,2,1,Cybersecurity,No,3,3,Database Administrator
+198,Aarav,25,B.Tech Electronics,9.41,1,0,1,2,1,0,5,2,3,5,Data Science,No,6,4,Cybersecurity Specialist
+199,Aarav,22,B.Tech Electronics,9.28,2,4,5,4,1,0,3,1,4,4,Artificial Intelligence,Yes,1,0,Data Analyst
+200,Neha,21,BCA,6.79,4,4,2,0,0,0,1,3,1,5,Design,No,2,0,UI/UX Designer
+201,Ananya,19,B.Tech Computer Science,9.77,1,5,3,3,0,3,5,2,5,4,Web Development,Yes,5,1,Cybersecurity Specialist
+202,Vikram,22,B.Tech Electronics,7.78,2,4,1,5,2,3,3,1,5,5,Cybersecurity,No,0,0,Data Analyst
+203,Ananya,24,BCA,7.68,5,3,5,2,3,4,3,2,5,1,Programming,No,6,2,Web Developer
+204,Aarav,18,B.Com,8.39,1,4,2,4,1,1,0,3,1,4,Data Science,Yes,4,4,UI/UX Designer
+205,Priya,21,BBA,7.42,2,2,5,5,2,4,0,2,2,5,Design,No,2,4,Web Developer
+206,Ananya,25,B.Tech Electronics,6.7,1,4,1,0,4,3,0,1,1,2,Programming,Yes,2,2,Machine Learning Engineer
+207,Neha,23,B.Tech Computer Science,6.09,5,2,0,2,5,5,3,2,1,5,Cybersecurity,Yes,5,2,Web Developer
+208,Vikram,20,BCA,8.93,4,5,4,5,4,2,1,4,3,2,Design,Yes,6,2,Machine Learning Engineer
+209,Neha,20,BCA,8.92,5,1,4,2,4,1,5,4,5,1,Cybersecurity,Yes,7,1,Cybersecurity Specialist
+210,Aarav,19,B.Sc Computer Science,7.39,3,3,0,2,1,1,5,2,1,3,Artificial Intelligence,No,4,0,Cybersecurity Specialist
+211,Rahul,18,BBA,7.75,4,3,2,4,3,0,3,2,4,4,Business,Yes,2,3,Data Analyst
+212,Aarav,18,B.Tech Electronics,6.08,3,1,3,1,5,0,4,1,1,3,Artificial Intelligence,No,7,5,Cybersecurity Specialist
+213,Priya,24,BCA,8.43,4,2,1,1,3,5,4,2,1,1,Design,No,4,2,Web Developer
+214,Aarav,19,B.Tech Computer Science,7.57,5,2,0,3,0,2,5,4,2,1,Design,No,3,0,Cybersecurity Specialist
+215,Arjun,21,BCA,8.55,1,3,3,3,5,2,0,4,1,3,Design,No,2,2,Database Administrator
+216,Neha,23,BCA,7.78,3,1,2,4,0,1,5,4,4,3,Design,Yes,1,5,Data Analyst
+217,Riya,24,B.Sc Computer Science,8.21,4,5,3,4,1,3,2,5,4,5,Artificial Intelligence,No,0,4,Data Analyst
+218,Vikram,20,B.Tech IT,9.8,4,1,1,0,3,0,5,2,2,2,Web Development,Yes,2,4,Cybersecurity Specialist
+219,Ananya,23,B.Tech IT,6.35,5,2,4,3,0,5,4,4,5,3,Cybersecurity,No,1,3,Web Developer
+220,Vikram,20,B.Tech IT,9.7,5,2,3,2,3,5,3,1,3,5,Cybersecurity,No,0,1,Web Developer
+221,Vikram,24,BCA,8.47,4,5,1,0,5,3,2,1,4,3,Programming,Yes,5,2,Machine Learning Engineer
+222,Priya,22,MCA,9.43,1,5,3,2,2,5,3,2,2,3,Cybersecurity,Yes,3,3,Web Developer
+223,Priya,24,MCA,9.04,3,0,2,5,4,3,1,1,5,2,Business,Yes,2,1,Data Analyst
+224,Sneha,18,B.Sc Computer Science,6.13,1,2,3,4,3,5,0,3,2,3,Design,Yes,3,2,Web Developer
+225,Ananya,25,BCA,9.84,4,2,1,2,5,5,0,5,5,3,Programming,Yes,6,0,Web Developer
+226,Riya,21,B.Sc Computer Science,8.59,2,0,5,0,3,1,5,3,4,5,Data Science,Yes,3,2,Cybersecurity Specialist
+227,Neha,22,B.Tech Electronics,7.7,4,1,3,2,5,4,4,3,4,3,Web Development,Yes,0,4,Web Developer
+228,Kiran,22,B.Tech Electronics,8.74,4,5,2,2,2,5,5,1,3,3,Design,No,3,1,Web Developer
+229,Aarav,21,B.Tech Computer Science,9.22,5,5,0,5,3,2,2,4,3,2,Web Development,No,6,5,Data Analyst
+230,Vikram,21,B.Com,8.91,2,4,2,1,5,4,1,5,4,3,Programming,Yes,7,1,Machine Learning Engineer
+231,Riya,20,B.Com,8.62,2,3,2,2,2,4,2,3,2,3,Web Development,Yes,7,0,Web Developer
+232,Neha,19,MCA,9.56,5,2,3,0,1,1,1,1,4,5,Programming,No,7,1,UI/UX Designer
+233,Arjun,20,B.Tech IT,7.95,2,3,2,1,1,4,1,3,1,1,Web Development,Yes,2,4,Web Developer
+234,Aarav,24,BBA,7.72,4,4,1,5,2,0,2,4,1,1,Business,Yes,0,5,Business Analyst
+235,Sneha,21,B.Sc Computer Science,8.77,3,3,4,4,2,1,0,3,2,1,Business,Yes,4,2,Business Analyst
+236,Aarav,23,BBA,9.55,2,1,1,3,0,1,1,3,4,3,Design,Yes,3,5,Database Administrator
+237,Rahul,20,B.Tech IT,7.47,1,4,0,4,0,5,0,4,3,5,Design,Yes,0,5,Data Analyst
+238,Riya,24,MCA,7.52,5,1,5,5,5,0,2,3,4,2,Web Development,Yes,8,2,Data Analyst
+239,Neha,20,BBA,9.32,1,2,0,0,3,1,4,5,5,1,Data Science,No,8,1,Cybersecurity Specialist
+240,Kiran,24,B.Tech Electronics,6.64,5,2,1,0,0,5,0,4,2,4,Artificial Intelligence,No,2,0,Web Developer
+241,Rahul,19,B.Tech IT,9.62,2,3,0,0,1,0,2,4,3,3,Programming,No,6,5,Data Scientist
+242,Sneha,18,B.Tech Computer Science,9.41,2,4,2,5,0,2,2,3,3,4,Data Science,Yes,6,3,Data Analyst
+243,Riya,22,BBA,8.76,4,1,5,5,0,1,0,4,2,1,Web Development,No,7,1,Database Administrator
+244,Riya,24,B.Com,8.45,2,3,3,0,0,2,5,4,4,1,Programming,Yes,8,5,Cybersecurity Specialist
+245,Ananya,21,B.Com,8.08,5,3,2,5,5,5,3,1,4,2,Data Science,Yes,0,5,Data Analyst
+246,Rahul,25,MCA,9.48,1,2,2,0,4,1,4,4,3,2,Design,No,6,1,Cybersecurity Specialist
+247,Kiran,25,MCA,9.21,4,2,0,3,5,5,0,1,4,4,Artificial Intelligence,No,6,0,Web Developer
+248,Neha,18,B.Tech IT,9.17,5,1,5,5,3,2,2,3,5,5,Business,Yes,3,3,Data Analyst
+249,Sneha,25,B.Com,8.86,1,2,2,5,2,4,4,1,2,1,Programming,Yes,0,1,Web Developer
+250,Riya,20,BBA,6.43,5,3,1,3,1,5,2,2,2,1,Artificial Intelligence,No,0,5,Web Developer
+251,Riya,19,MCA,7.83,5,0,4,5,0,4,3,5,2,4,Business,No,8,1,Web Developer
+252,Ananya,20,BCA,6.41,5,3,3,4,5,1,2,5,3,5,Web Development,No,4,3,Data Analyst
+253,Ananya,20,BBA,8.41,5,5,5,4,5,1,1,3,5,3,Data Science,No,5,5,Machine Learning Engineer
+254,Kiran,20,B.Com,8.84,3,4,5,5,3,5,5,5,4,5,Business,No,6,0,Data Analyst
+255,Aarav,19,B.Tech Computer Science,7.52,1,1,2,5,2,1,0,1,2,3,Design,No,3,4,Database Administrator
+256,Neha,23,MCA,6.41,5,1,4,5,2,5,5,2,5,4,Artificial Intelligence,No,6,3,Data Analyst
+257,Sneha,18,B.Tech Computer Science,8.97,2,5,5,5,5,2,4,5,4,2,Cybersecurity,Yes,3,2,Machine Learning Engineer
+258,Sneha,20,B.Tech IT,6.75,2,0,3,2,4,2,1,5,1,4,Data Science,No,0,2,UI/UX Designer
+259,Ananya,20,B.Tech Computer Science,6.61,3,5,2,3,4,4,2,5,1,5,Artificial Intelligence,No,8,1,Machine Learning Engineer
+260,Kiran,19,BCA,7.66,5,1,1,5,2,2,2,4,1,3,Programming,Yes,8,3,Database Administrator
+261,Vikram,18,B.Tech IT,8.68,4,1,0,5,2,3,0,2,5,5,Web Development,No,8,5,Data Analyst
+262,Aarav,18,B.Com,8.06,5,2,5,1,2,4,0,4,4,1,Artificial Intelligence,Yes,8,4,Web Developer
+263,Neha,19,B.Sc Computer Science,8.68,2,4,5,5,3,5,0,4,1,2,Design,Yes,0,3,Web Developer
+264,Arjun,18,B.Tech IT,6.29,2,4,1,2,3,3,3,3,5,1,Design,No,6,2,Software Developer
+265,Sneha,19,B.Tech Computer Science,8.57,5,5,0,2,4,0,2,1,5,1,Business,No,1,2,Machine Learning Engineer
+266,Neha,24,BBA,9.29,1,1,1,5,3,4,2,4,2,5,Design,Yes,4,5,Web Developer
+267,Kiran,18,BCA,6.49,1,4,4,0,2,1,5,5,5,4,Design,No,3,3,Cybersecurity Specialist
+268,Rahul,20,BCA,6.74,5,1,5,4,0,4,3,3,2,1,Design,Yes,4,5,Web Developer
+269,Sneha,22,B.Tech IT,6.79,5,1,5,5,1,0,2,4,3,3,Cybersecurity,Yes,3,2,Data Analyst
+270,Arjun,25,B.Com,8.47,3,4,2,2,3,1,0,5,2,5,Programming,Yes,3,5,UI/UX Designer
+271,Kiran,22,B.Com,6.54,3,2,2,3,4,0,1,4,4,4,Design,Yes,4,1,UI/UX Designer
+272,Kiran,21,B.Tech Electronics,8.93,1,5,0,4,4,3,4,1,1,5,Data Science,Yes,8,2,Machine Learning Engineer
+273,Ananya,25,BCA,7.46,2,3,4,4,0,3,2,5,3,2,Cybersecurity,Yes,3,4,Data Analyst
+274,Priya,20,MCA,6.64,5,2,0,1,3,1,0,5,2,4,Programming,No,3,0,UI/UX Designer
+275,Arjun,23,BBA,7.88,4,0,5,4,5,2,5,1,1,3,Programming,Yes,6,5,Cybersecurity Specialist
+276,Priya,23,B.Tech IT,8.07,4,2,2,3,3,4,0,2,5,4,Cybersecurity,Yes,7,1,Web Developer
+277,Sneha,19,B.Tech Electronics,6.85,2,5,0,5,1,3,2,2,3,5,Design,Yes,7,5,Data Analyst
+278,Ananya,25,B.Sc Computer Science,8.36,4,1,4,4,1,1,5,1,2,1,Cybersecurity,Yes,2,0,Cybersecurity Specialist
+279,Priya,22,BCA,8.07,4,5,5,5,2,0,1,5,5,1,Web Development,No,7,1,Data Analyst
+280,Arjun,24,BCA,9.18,2,1,5,5,2,3,4,5,5,3,Cybersecurity,Yes,3,3,Data Analyst
+281,Ananya,20,B.Tech IT,6.07,5,4,0,1,3,4,4,5,4,2,Artificial Intelligence,Yes,1,3,Web Developer
+282,Vikram,18,BBA,8.09,3,1,3,3,2,4,5,1,5,4,Business,Yes,6,1,Web Developer
+283,Kiran,25,B.Sc Computer Science,9.64,1,3,2,1,0,5,5,3,5,5,Business,Yes,8,0,Web Developer
+284,Vikram,18,BBA,8.62,3,1,3,5,4,2,2,4,3,1,Business,No,5,4,Data Analyst
+285,Rahul,24,B.Sc Computer Science,7.65,5,4,4,3,2,2,4,4,2,3,Programming,No,2,5,Cybersecurity Specialist
+286,Aarav,21,MCA,9.13,2,3,2,4,4,5,5,1,2,5,Design,Yes,2,3,Web Developer
+287,Kiran,19,BCA,7.89,5,2,1,2,0,4,0,4,1,1,Design,No,6,4,Web Developer
+288,Aarav,22,B.Tech Computer Science,9.78,2,1,5,4,2,1,0,4,4,1,Business,Yes,2,5,Data Analyst
+289,Kiran,23,B.Sc Computer Science,8.62,2,2,5,3,3,4,1,1,3,4,Cybersecurity,Yes,1,0,Web Developer
+290,Kiran,22,B.Com,7.39,3,3,3,4,0,2,1,2,5,2,Web Development,Yes,8,0,Data Analyst
+291,Sneha,22,B.Com,9.79,5,2,5,3,3,4,3,3,5,5,Business,Yes,5,3,Web Developer
+292,Rahul,18,MCA,6.47,1,2,3,2,4,4,0,4,2,2,Design,No,3,2,Web Developer
+293,Priya,24,B.Com,6.3,2,1,4,2,1,5,5,4,3,3,Data Science,No,3,1,Web Developer
+294,Sneha,22,B.Sc Computer Science,6.92,2,0,0,0,5,5,3,5,3,2,Cybersecurity,Yes,8,0,Web Developer
+295,Aarav,23,B.Com,7.97,5,4,2,3,1,4,1,3,4,2,Artificial Intelligence,No,7,4,Web Developer
+296,Neha,23,BBA,9.44,2,3,2,5,0,0,5,4,1,5,Data Science,No,1,2,Cybersecurity Specialist
+297,Vikram,22,BCA,8.19,2,2,2,1,3,3,1,3,4,5,Web Development,No,5,3,UI/UX Designer
+298,Ananya,25,BCA,8.29,5,1,4,3,3,1,1,2,1,3,Business,Yes,7,0,Business Analyst
+299,Vikram,24,MCA,6.54,5,2,2,4,4,0,3,5,3,4,Artificial Intelligence,Yes,0,1,Data Analyst
+300,Riya,25,B.Tech IT,7.8,3,4,4,2,2,0,3,3,3,3,Artificial Intelligence,No,3,4,Data Scientist
+301,Riya,20,B.Tech Electronics,7.42,5,3,4,2,3,5,1,4,4,1,Business,Yes,5,3,Web Developer
+302,Riya,24,B.Tech IT,6.32,3,5,2,5,2,4,5,2,3,3,Web Development,No,7,2,Data Analyst
+303,Sneha,25,BBA,6.67,1,5,5,5,0,1,1,2,2,3,Web Development,Yes,1,0,Database Administrator
+304,Ananya,18,B.Tech Computer Science,9.08,5,4,1,0,5,3,2,1,1,3,Data Science,Yes,4,3,Machine Learning Engineer
+305,Riya,20,BCA,6.11,3,4,2,4,3,1,5,3,4,4,Cybersecurity,Yes,7,5,Data Analyst
+306,Neha,24,B.Tech Electronics,9.64,4,3,2,2,3,2,1,5,2,1,Programming,Yes,0,4,Data Analyst
+307,Arjun,22,MCA,8.14,4,3,2,4,1,0,4,4,3,1,Programming,Yes,6,4,Data Analyst
+308,Kiran,24,B.Sc Computer Science,6.65,4,0,3,5,1,4,4,4,2,3,Business,No,4,5,Web Developer
+309,Aarav,22,BBA,6.75,1,0,5,3,4,3,2,2,2,3,Design,No,3,2,Database Administrator
+310,Sneha,20,B.Tech Computer Science,9.88,1,2,1,5,3,5,0,2,1,3,Data Science,Yes,2,0,Web Developer
+311,Vikram,21,B.Com,7.68,4,2,0,1,0,2,3,3,4,1,Artificial Intelligence,No,2,1,Data Scientist
+312,Vikram,24,B.Tech Computer Science,6.49,2,5,0,1,3,5,0,4,4,2,Cybersecurity,Yes,7,3,Web Developer
+313,Arjun,23,BCA,8.52,1,2,3,5,2,1,2,5,5,1,Artificial Intelligence,Yes,1,1,Data Analyst
+314,Priya,23,B.Tech Computer Science,6.67,3,1,0,0,4,5,3,5,1,4,Design,Yes,5,0,Web Developer
+315,Kiran,20,MCA,6.37,5,2,5,1,5,4,0,3,1,1,Data Science,No,3,2,Web Developer
+316,Ananya,23,MCA,8.93,1,2,0,3,5,3,4,4,3,2,Programming,No,3,4,Cybersecurity Specialist
+317,Arjun,23,B.Com,8.93,3,0,4,1,3,2,2,5,5,2,Cybersecurity,No,7,0,Business Analyst
+318,Riya,20,B.Tech Computer Science,8.48,3,5,0,5,4,3,1,5,2,3,Cybersecurity,No,8,1,Machine Learning Engineer
+319,Rahul,22,B.Com,7.64,3,5,0,0,1,1,0,1,1,5,Data Science,Yes,7,1,UI/UX Designer
+320,Sneha,18,BBA,8.63,5,0,2,1,4,5,0,5,5,3,Artificial Intelligence,Yes,7,0,Web Developer
+321,Rahul,18,B.Com,8.23,4,2,4,0,5,0,2,3,1,5,Artificial Intelligence,Yes,8,0,UI/UX Designer
+322,Arjun,21,BBA,6.76,5,4,5,4,3,5,0,2,5,2,Business,No,7,5,Data Analyst
+323,Arjun,19,BCA,9.17,5,5,1,4,4,3,2,4,5,3,Programming,No,5,3,Machine Learning Engineer
+324,Ananya,23,B.Sc Computer Science,8.25,2,2,3,3,3,0,5,4,5,3,Artificial Intelligence,No,0,4,Cybersecurity Specialist
+325,Sneha,22,B.Tech Computer Science,7.2,2,5,2,4,4,4,4,2,3,1,Cybersecurity,Yes,1,0,Machine Learning Engineer
+326,Ananya,23,BCA,6.55,3,2,2,0,4,3,4,5,2,2,Data Science,Yes,5,3,Cybersecurity Specialist
+327,Riya,25,B.Tech IT,8.38,3,0,0,2,2,3,3,1,5,4,Business,Yes,3,5,UI/UX Designer
+328,Riya,18,BBA,6.22,5,4,1,2,4,5,1,1,3,5,Data Science,Yes,6,3,Machine Learning Engineer
+329,Kiran,19,B.Sc Computer Science,7.73,4,0,3,4,5,0,4,2,2,3,Web Development,No,1,3,Cybersecurity Specialist
+330,Vikram,24,BCA,9.05,4,3,5,4,1,4,4,5,2,4,Design,Yes,3,0,Web Developer
+331,Neha,24,B.Com,8.74,5,3,2,2,1,2,2,1,1,4,Cybersecurity,Yes,4,1,UI/UX Designer
+332,Neha,25,BCA,7.76,2,5,0,0,5,0,1,2,3,2,Cybersecurity,Yes,4,0,Machine Learning Engineer
+333,Riya,19,B.Tech Electronics,7.8,1,1,1,4,4,2,4,3,2,5,Web Development,Yes,0,3,Cybersecurity Specialist
+334,Aarav,18,B.Tech Electronics,6.68,3,0,3,5,0,0,3,2,5,3,Design,No,5,0,Data Analyst
+335,Aarav,22,BBA,6.92,4,3,4,4,0,1,1,5,1,3,Cybersecurity,No,8,5,Database Administrator
+336,Vikram,18,B.Sc Computer Science,9.69,3,5,1,0,2,5,2,3,4,4,Programming,No,3,4,Web Developer
+337,Riya,18,B.Tech Electronics,9.51,1,1,2,3,5,1,0,5,3,2,Design,No,8,5,Database Administrator
+338,Kiran,21,BBA,6.96,2,2,3,4,1,1,5,4,3,5,Data Science,Yes,2,2,Data Analyst
+339,Arjun,20,BBA,9.98,2,0,4,4,5,0,1,5,2,3,Programming,Yes,0,2,Database Administrator
+340,Aarav,24,B.Tech Electronics,7.77,3,1,1,0,4,4,2,2,2,1,Cybersecurity,Yes,3,1,Web Developer
+341,Priya,23,B.Tech IT,8.75,4,3,5,5,2,1,3,2,5,5,Web Development,No,2,1,Data Analyst
+342,Arjun,21,B.Tech Computer Science,7.63,1,5,5,1,1,0,1,3,4,2,Web Development,No,5,3,Machine Learning Engineer
+343,Sneha,24,B.Tech Computer Science,8.43,4,5,4,4,4,4,5,3,4,5,Design,Yes,8,0,Machine Learning Engineer
+344,Arjun,25,B.Tech Computer Science,9.51,2,5,0,4,3,4,5,5,5,4,Artificial Intelligence,Yes,4,3,Data Analyst
+345,Kiran,22,B.Tech Electronics,7.85,4,5,4,1,3,5,3,3,5,1,Artificial Intelligence,Yes,2,4,Web Developer
+346,Rahul,20,BBA,7.65,4,4,5,1,3,0,2,1,2,4,Programming,Yes,1,0,UI/UX Designer
+347,Ananya,25,B.Com,6.34,4,3,4,3,0,1,2,5,5,2,Cybersecurity,Yes,2,1,Database Administrator
+348,Riya,18,BBA,7.23,4,1,1,0,4,2,0,3,2,1,Web Development,No,7,4,Software Developer
+349,Ananya,25,B.Sc Computer Science,6.87,4,0,4,4,0,1,4,4,4,4,Programming,Yes,0,1,Data Analyst
+350,Riya,18,B.Com,6.15,1,2,0,0,0,3,1,5,5,3,Data Science,No,8,1,UI/UX Designer
+351,Kiran,23,B.Tech Computer Science,6.37,3,0,3,4,0,2,3,3,3,4,Data Science,Yes,4,2,Data Analyst
+352,Neha,24,B.Sc Computer Science,8.78,5,5,5,4,0,3,5,1,1,5,Design,No,6,4,Cybersecurity Specialist
+353,Rahul,22,B.Com,9.71,5,5,5,3,3,1,4,5,4,5,Data Science,No,3,0,Cybersecurity Specialist
+354,Vikram,18,MCA,8.5,1,3,0,2,2,4,5,2,5,4,Data Science,Yes,3,5,Web Developer
+355,Neha,22,B.Tech IT,7.23,5,0,5,2,2,3,5,5,3,1,Cybersecurity,Yes,2,1,Cybersecurity Specialist
+356,Riya,23,MCA,9.66,1,5,3,4,2,3,3,2,4,2,Design,Yes,8,2,Data Analyst
+357,Riya,23,B.Tech Computer Science,6.83,3,2,0,2,3,5,4,3,1,2,Business,Yes,6,1,Web Developer
+358,Neha,19,B.Tech Electronics,8.82,3,0,3,1,2,3,2,1,3,4,Data Science,No,2,0,UI/UX Designer
+359,Rahul,18,B.Sc Computer Science,9.65,4,4,1,1,2,3,5,5,1,4,Business,No,5,1,Cybersecurity Specialist
+360,Kiran,20,B.Sc Computer Science,8.9,4,0,2,0,5,4,0,4,5,1,Programming,No,0,0,Web Developer
+361,Vikram,22,B.Tech Computer Science,8.31,3,1,2,2,4,2,3,2,3,2,Design,Yes,4,1,Data Analyst
+362,Rahul,19,B.Tech Computer Science,9.83,5,4,2,4,2,2,1,5,1,2,Design,No,3,1,Database Administrator
+363,Riya,22,B.Com,8.16,1,5,0,0,3,0,0,2,1,4,Web Development,No,2,5,UI/UX Designer
+364,Priya,25,B.Com,7.25,2,4,1,0,5,3,0,5,1,4,Web Development,No,7,3,Machine Learning Engineer
+365,Rahul,21,BCA,9.44,5,1,5,5,2,2,3,3,3,4,Web Development,Yes,1,3,Data Analyst
+366,Rahul,23,MCA,7.84,2,4,1,4,0,3,5,3,3,5,Business,Yes,5,4,Data Analyst
+367,Neha,22,MCA,7.6,4,4,1,3,3,0,2,2,5,2,Data Science,No,6,4,Database Administrator
+368,Arjun,21,BCA,8.65,1,4,4,3,2,4,0,5,4,1,Business,No,2,2,Web Developer
+369,Ananya,19,B.Tech IT,8.74,5,5,5,0,0,1,1,4,3,4,Cybersecurity,Yes,2,5,UI/UX Designer
+370,Aarav,25,B.Tech Electronics,7.56,5,5,2,2,4,5,2,4,2,2,Web Development,No,1,4,Machine Learning Engineer
+371,Riya,24,BCA,9.41,1,0,5,4,2,0,2,3,5,1,Business,Yes,3,3,Data Analyst
+372,Ananya,24,B.Com,8.85,4,1,5,1,3,1,1,4,4,5,Cybersecurity,No,5,3,UI/UX Designer
+373,Riya,22,BCA,6.54,1,5,3,1,0,1,5,1,2,4,Business,No,7,5,Cybersecurity Specialist
+374,Kiran,24,BCA,7.82,4,2,1,1,3,4,0,5,4,4,Cybersecurity,No,3,5,Web Developer
+375,Kiran,22,BBA,9.71,5,4,3,5,2,0,4,3,1,1,Web Development,Yes,2,5,Cybersecurity Specialist
+376,Kiran,22,MCA,8.07,5,3,5,5,5,5,0,5,1,2,Design,No,0,2,Web Developer
+377,Sneha,18,MCA,7.82,4,2,2,2,1,0,5,5,3,4,Cybersecurity,No,4,0,Cybersecurity Specialist
+378,Aarav,20,B.Tech Computer Science,8.63,3,3,0,1,4,0,2,5,1,3,Programming,Yes,4,2,Web Developer
+379,Ananya,19,BCA,9.64,2,2,5,1,3,1,4,4,3,2,Business,Yes,5,0,Cybersecurity Specialist
+380,Vikram,20,MCA,9.01,4,5,5,1,1,4,5,4,2,4,Business,No,0,5,Web Developer
+381,Kiran,19,B.Tech Computer Science,6.67,4,5,4,1,3,5,5,4,3,4,Web Development,No,4,1,Web Developer
+382,Vikram,24,B.Tech Computer Science,7.16,4,5,0,0,4,5,2,4,3,5,Business,No,4,2,Machine Learning Engineer
+383,Aarav,22,B.Tech IT,7.02,5,5,5,4,1,4,2,4,4,2,Design,Yes,5,4,Data Analyst
+384,Riya,18,B.Tech IT,6.05,1,2,1,5,2,2,1,5,1,4,Artificial Intelligence,Yes,1,0,UI/UX Designer
+385,Sneha,21,B.Tech IT,8.83,1,3,5,5,4,1,0,1,5,2,Design,Yes,4,2,Data Analyst
+386,Sneha,19,MCA,9.69,3,1,0,2,0,3,3,4,3,3,Programming,Yes,4,2,Data Analyst
+387,Vikram,19,MCA,9.92,2,5,3,0,1,4,3,5,4,2,Data Science,Yes,7,5,Web Developer
+388,Neha,19,B.Tech Computer Science,6.29,5,3,1,5,5,0,0,3,4,1,Design,No,4,1,Data Analyst
+389,Kiran,24,B.Tech Computer Science,8.06,4,5,0,4,1,0,3,4,4,4,Design,No,1,4,Data Analyst
+390,Arjun,23,B.Com,8.73,4,4,2,0,3,2,5,1,1,3,Data Science,Yes,8,0,Cybersecurity Specialist
+391,Arjun,21,B.Tech Electronics,8.78,1,5,3,5,1,1,0,3,4,1,Data Science,Yes,3,3,Data Analyst
+392,Riya,19,B.Tech Electronics,8.0,4,0,2,5,0,3,0,1,1,3,Data Science,No,8,1,Database Administrator
+393,Rahul,21,B.Tech IT,6.15,2,4,0,1,5,5,1,4,1,4,Artificial Intelligence,Yes,0,2,Machine Learning Engineer
+394,Riya,25,BCA,9.34,1,4,4,1,0,1,3,1,1,4,Programming,No,5,0,UI/UX Designer
+395,Priya,20,B.Com,9.35,2,2,0,0,2,1,3,1,5,2,Data Science,No,8,1,UI/UX Designer
+396,Ananya,18,BCA,6.4,5,3,0,0,0,1,0,4,2,1,Design,No,6,5,UI/UX Designer
+397,Vikram,21,BCA,8.56,5,1,4,5,0,4,1,4,4,2,Design,No,1,5,Data Analyst
+398,Priya,23,BBA,6.02,2,0,4,2,4,4,1,2,1,5,Web Development,Yes,4,0,Web Developer
+399,Riya,19,BCA,8.74,4,5,0,0,5,2,2,4,2,2,Data Science,No,4,2,Machine Learning Engineer
+400,Priya,25,B.Tech Computer Science,6.42,1,0,3,4,0,0,1,5,2,2,Design,No,5,3,Database Administrator
+401,Priya,23,B.Sc Computer Science,9.12,3,5,3,1,3,1,0,2,1,2,Web Development,No,0,3,Data Analyst
+402,Rahul,25,BCA,7.55,2,2,1,2,1,0,5,4,2,3,Cybersecurity,Yes,4,1,Cybersecurity Specialist
+403,Kiran,25,MCA,7.67,3,1,5,4,1,4,4,2,3,5,Business,Yes,1,3,Data Analyst
+404,Aarav,25,B.Sc Computer Science,8.37,4,5,1,1,2,3,4,3,1,4,Data Science,Yes,0,3,Cybersecurity Specialist
+405,Arjun,18,MCA,8.93,5,3,3,5,0,3,3,1,4,5,Data Science,Yes,8,0,Data Analyst
+406,Ananya,21,BCA,7.43,2,5,2,1,5,3,4,1,1,4,Design,Yes,7,3,Machine Learning Engineer
+407,Rahul,24,BCA,9.16,3,3,5,2,4,0,2,4,1,1,Web Development,No,8,4,Machine Learning Engineer
+408,Priya,23,B.Tech Computer Science,8.06,3,2,3,4,0,2,2,1,1,4,Data Science,Yes,8,5,UI/UX Designer
+409,Rahul,20,B.Com,6.95,1,5,1,2,2,2,4,4,5,2,Design,No,4,0,Cybersecurity Specialist
+410,Sneha,23,B.Com,7.81,5,5,4,5,4,2,3,5,1,4,Cybersecurity,No,1,1,Machine Learning Engineer
+411,Vikram,19,B.Tech IT,7.56,2,1,2,0,5,1,3,3,1,1,Data Science,Yes,8,5,Software Developer
+412,Neha,24,BCA,7.9,4,1,0,0,1,4,5,4,1,3,Programming,No,5,5,Web Developer
+413,Ananya,25,MCA,7.83,5,2,1,3,2,2,0,2,3,2,Data Science,No,4,3,Database Administrator
+414,Aarav,20,B.Tech Electronics,6.73,2,0,0,2,4,1,3,2,2,2,Programming,No,2,1,Business Analyst
+415,Kiran,23,B.Com,6.59,4,2,0,0,3,3,1,5,2,5,Web Development,No,2,0,UI/UX Designer
+416,Kiran,23,B.Tech Electronics,7.9,3,5,3,2,5,0,5,5,2,5,Web Development,Yes,2,5,Machine Learning Engineer
+417,Aarav,19,B.Tech Electronics,6.1,5,0,2,0,4,5,1,2,4,3,Cybersecurity,Yes,4,1,Web Developer
+418,Arjun,19,MCA,8.71,1,3,2,4,4,4,0,5,4,2,Design,No,6,1,Data Analyst
+419,Ananya,23,BBA,7.49,3,3,4,0,1,5,3,3,3,3,Design,No,7,2,Web Developer
+420,Arjun,24,BBA,6.56,5,1,2,3,4,2,0,5,1,2,Cybersecurity,No,1,0,Database Administrator
+421,Kiran,22,BBA,6.7,4,1,3,2,4,3,0,5,2,2,Business,No,4,3,Business Analyst
+422,Priya,25,B.Sc Computer Science,6.11,1,5,5,3,0,5,5,2,3,3,Programming,No,2,3,Web Developer
+423,Kiran,18,B.Tech IT,9.06,4,4,3,4,3,2,5,1,5,3,Design,No,1,2,Data Analyst
+424,Vikram,18,B.Tech Electronics,6.65,1,5,1,2,1,0,2,2,3,4,Programming,No,5,0,UI/UX Designer
+425,Riya,22,B.Tech IT,8.06,2,4,2,2,5,2,2,1,5,2,Design,No,1,4,Machine Learning Engineer
+426,Riya,23,BCA,6.05,5,3,2,1,0,1,1,3,3,4,Cybersecurity,Yes,3,4,UI/UX Designer
+427,Ananya,19,BBA,7.84,1,3,2,2,5,2,1,1,2,1,Business,No,8,2,Business Analyst
+428,Aarav,22,B.Tech Computer Science,8.98,1,5,1,2,1,1,1,2,2,2,Artificial Intelligence,No,1,0,Data Scientist
+429,Riya,25,BBA,6.17,1,0,3,0,2,0,0,1,5,5,Programming,Yes,1,0,UI/UX Designer
+430,Rahul,21,B.Sc Computer Science,6.74,3,5,2,4,2,2,1,1,1,2,Business,Yes,8,4,Business Analyst
+431,Rahul,19,B.Tech Computer Science,8.12,2,0,5,0,1,4,5,3,2,5,Web Development,No,2,3,Web Developer
+432,Kiran,20,B.Com,9.93,4,3,0,2,0,3,0,2,5,2,Cybersecurity,Yes,7,2,Web Developer
+433,Priya,18,B.Tech IT,7.31,1,4,5,2,5,3,1,4,3,4,Cybersecurity,No,4,3,Machine Learning Engineer
+434,Arjun,19,MCA,9.76,3,5,0,3,3,4,5,2,1,4,Design,Yes,1,1,Web Developer
+435,Riya,24,B.Tech IT,8.97,2,2,1,4,3,0,1,1,3,2,Business,No,7,2,Data Analyst
+436,Ananya,22,BBA,7.42,5,2,1,3,0,0,2,4,4,5,Web Development,No,3,5,UI/UX Designer
+437,Kiran,18,B.Tech IT,8.95,1,3,4,5,2,1,2,4,1,2,Cybersecurity,Yes,1,5,Database Administrator
+438,Neha,25,MCA,6.81,4,4,2,4,4,0,0,4,5,3,Web Development,Yes,6,3,Machine Learning Engineer
+439,Riya,24,MCA,7.84,1,5,1,3,3,1,2,2,5,3,Design,No,7,0,Database Administrator
+440,Aarav,25,MCA,7.9,2,2,3,4,3,4,5,5,1,4,Programming,No,5,0,Web Developer
+441,Priya,18,BCA,9.35,3,3,0,3,2,2,3,5,1,3,Programming,Yes,3,1,Database Administrator
+442,Vikram,22,B.Tech IT,9.64,1,1,0,4,2,0,3,3,1,3,Design,No,8,3,Database Administrator
+443,Kiran,18,MCA,8.35,3,2,4,0,3,0,5,4,5,4,Design,Yes,5,3,Cybersecurity Specialist
+444,Riya,23,BCA,8.46,3,5,0,4,1,2,2,4,2,4,Artificial Intelligence,No,6,1,UI/UX Designer
+445,Arjun,19,B.Tech IT,8.37,3,3,3,1,2,0,5,1,5,5,Business,No,8,2,Cybersecurity Specialist
+446,Sneha,23,B.Sc Computer Science,7.66,3,5,4,1,0,5,5,5,5,4,Cybersecurity,Yes,7,1,Web Developer
+447,Neha,22,BBA,9.74,1,3,1,1,1,5,5,5,2,3,Business,No,6,3,Web Developer
+448,Sneha,19,B.Sc Computer Science,9.38,3,5,4,1,3,1,0,3,2,3,Data Science,Yes,0,1,Web Developer
+449,Aarav,25,BBA,7.69,1,1,0,2,2,5,4,2,2,3,Data Science,Yes,7,0,Web Developer
+450,Riya,19,B.Com,8.41,1,3,5,1,1,0,4,4,3,1,Design,Yes,8,5,Cybersecurity Specialist
+451,Rahul,22,MCA,9.54,2,2,4,5,3,5,5,5,1,3,Data Science,No,3,1,Web Developer
+452,Priya,20,B.Sc Computer Science,9.88,4,0,3,4,2,5,0,4,3,5,Programming,No,7,5,Data Analyst
+453,Vikram,22,BCA,7.45,3,0,5,5,0,5,5,3,1,5,Data Science,No,8,3,Web Developer
+454,Arjun,23,B.Tech IT,8.14,2,3,2,2,0,1,2,4,4,1,Data Science,Yes,7,5,Cybersecurity Specialist
+455,Riya,18,B.Tech Electronics,9.47,4,5,3,0,1,5,2,4,4,3,Cybersecurity,Yes,5,3,Web Developer
+456,Kiran,23,MCA,8.78,1,0,3,1,5,2,2,2,4,2,Cybersecurity,Yes,1,1,Machine Learning Engineer
+457,Ananya,20,BBA,9.17,3,2,1,5,4,2,2,4,4,2,Data Science,Yes,6,2,Data Analyst
+458,Ananya,24,BBA,9.78,5,4,5,4,5,1,0,2,1,1,Web Development,Yes,4,5,Machine Learning Engineer
+459,Sneha,18,BBA,8.47,5,2,1,4,0,0,5,3,2,1,Cybersecurity,No,7,5,Cybersecurity Specialist
+460,Ananya,19,B.Sc Computer Science,8.85,2,3,1,3,1,4,1,3,3,4,Business,No,3,3,Web Developer
+461,Neha,24,BCA,6.12,3,1,2,4,5,5,3,2,5,4,Artificial Intelligence,Yes,7,1,Data Analyst
+462,Kiran,24,B.Sc Computer Science,8.85,4,0,4,0,0,2,1,5,3,1,Web Development,No,0,0,Web Developer
+463,Neha,24,B.Tech Electronics,9.91,3,4,1,2,1,4,3,2,5,1,Programming,No,2,0,Web Developer
+464,Arjun,24,BCA,7.04,3,2,5,2,3,2,2,1,2,4,Cybersecurity,No,8,2,UI/UX Designer
+465,Sneha,20,B.Com,8.95,4,0,1,1,0,1,1,2,5,4,Artificial Intelligence,No,4,1,UI/UX Designer
+466,Rahul,24,B.Tech IT,9.98,4,5,4,3,3,3,0,1,4,3,Business,Yes,1,2,Business Analyst
+467,Priya,21,B.Tech Electronics,6.72,2,5,4,1,4,0,4,5,3,5,Business,Yes,6,0,Machine Learning Engineer
+468,Vikram,25,B.Tech IT,9.55,1,2,4,0,2,1,0,3,1,4,Artificial Intelligence,No,7,3,UI/UX Designer
+469,Riya,18,B.Com,9.88,5,1,1,0,5,2,2,4,3,5,Business,Yes,1,4,UI/UX Designer
+470,Arjun,24,B.Tech IT,7.6,2,0,1,1,3,3,2,2,4,1,Design,Yes,1,2,UI/UX Designer
+471,Neha,22,BCA,7.44,1,3,3,3,3,2,4,3,5,2,Cybersecurity,No,1,3,Cybersecurity Specialist
+472,Kiran,20,BBA,8.52,1,3,5,1,5,5,5,1,5,3,Data Science,No,8,5,Web Developer
+473,Aarav,19,B.Tech Electronics,7.87,1,1,5,2,1,4,3,4,3,2,Programming,Yes,8,0,Web Developer
+474,Aarav,19,BBA,7.65,4,2,4,0,4,0,0,5,3,3,Design,No,2,1,Cloud Engineer
+475,Riya,19,BBA,9.51,3,5,3,4,2,2,1,3,5,4,Data Science,Yes,1,5,Data Analyst
+476,Riya,22,B.Tech IT,7.74,1,0,1,5,3,3,5,1,4,1,Web Development,No,4,4,Data Analyst
+477,Arjun,23,BBA,9.22,1,1,0,0,5,1,0,2,2,1,Data Science,No,2,5,Machine Learning Engineer
+478,Sneha,21,B.Tech IT,7.2,4,0,0,1,1,5,5,2,4,4,Web Development,No,7,0,Web Developer
+479,Arjun,21,B.Sc Computer Science,7.18,4,0,5,5,3,3,3,1,3,1,Design,No,0,3,Data Analyst
+480,Riya,25,MCA,6.93,1,4,2,4,0,2,5,5,1,4,Web Development,No,1,3,Cybersecurity Specialist
+481,Vikram,23,MCA,8.79,1,3,2,3,1,4,1,2,3,2,Cybersecurity,No,7,1,Web Developer
+482,Ananya,24,BBA,9.33,3,1,2,5,5,0,5,4,2,5,Web Development,Yes,2,1,Cybersecurity Specialist
+483,Rahul,25,B.Tech IT,9.17,4,4,0,0,2,2,2,3,2,2,Design,Yes,2,4,Software Developer
+484,Rahul,23,BBA,6.46,2,3,2,2,2,0,4,1,5,2,Programming,Yes,8,4,Cybersecurity Specialist
+485,Ananya,18,MCA,9.2,1,0,4,0,4,0,1,1,5,5,Design,Yes,3,2,UI/UX Designer
+486,Neha,22,MCA,9.05,4,2,1,0,1,3,3,1,2,3,Business,Yes,3,3,Business Analyst
+487,Neha,22,BCA,6.34,3,1,4,3,1,1,3,4,3,2,Web Development,No,7,4,Database Administrator
+488,Aarav,18,MCA,6.58,1,2,2,3,1,3,0,5,1,1,Web Development,Yes,2,4,Database Administrator
+489,Riya,22,BBA,7.61,5,0,2,4,4,1,5,3,3,3,Web Development,No,3,4,Data Analyst
+490,Vikram,25,B.Com,9.55,4,0,4,2,3,5,5,2,3,1,Design,Yes,8,4,Web Developer
+491,Rahul,21,B.Tech IT,8.05,3,0,0,4,4,2,1,5,3,2,Business,No,6,4,Data Analyst
+492,Riya,18,B.Com,7.04,5,5,0,3,2,4,5,3,1,1,Artificial Intelligence,No,5,1,Web Developer
+493,Ananya,21,B.Com,7.2,5,5,1,0,2,4,4,2,4,5,Data Science,No,7,0,Web Developer
+494,Sneha,24,BBA,6.33,1,1,3,0,2,5,4,4,2,4,Web Development,No,4,4,Web Developer
+495,Sneha,24,MCA,8.76,4,4,1,3,5,3,1,4,2,2,Design,Yes,3,3,Machine Learning Engineer
+496,Vikram,18,BCA,9.78,3,0,0,2,4,2,0,1,5,4,Cybersecurity,Yes,1,2,UI/UX Designer
+497,Kiran,23,B.Tech Electronics,7.18,1,3,0,2,2,1,1,2,2,5,Business,No,0,0,UI/UX Designer
+498,Sneha,23,B.Tech IT,9.48,4,4,3,2,3,3,5,4,5,3,Business,Yes,2,4,Cybersecurity Specialist
+499,Rahul,25,MCA,6.6,3,3,3,1,3,2,4,1,5,5,Artificial Intelligence,No,4,5,Cybersecurity Specialist
+500,Aarav,20,B.Tech Computer Science,8.29,3,0,1,4,4,4,0,5,1,5,Cybersecurity,Yes,7,4,Web Developer
+501,Neha,19,BCA,9.85,3,3,0,4,4,2,3,2,2,5,Cybersecurity,Yes,7,0,UI/UX Designer
+502,Vikram,24,BCA,7.66,5,0,0,0,4,1,2,3,4,3,Data Science,Yes,4,0,Data Analyst
+503,Priya,24,BCA,6.24,3,2,3,0,2,1,3,2,1,1,Programming,No,6,0,Software Developer
+504,Priya,21,B.Sc Computer Science,7.97,5,0,2,3,4,3,0,4,1,3,Web Development,Yes,6,5,Database Administrator
+505,Kiran,18,B.Tech Electronics,8.22,5,5,1,2,4,3,3,1,2,5,Artificial Intelligence,Yes,2,2,Machine Learning Engineer
+506,Riya,20,B.Sc Computer Science,8.15,4,0,3,4,2,5,1,5,4,1,Artificial Intelligence,Yes,7,2,Data Analyst
+507,Rahul,22,BBA,10.0,2,0,1,5,4,4,0,5,5,3,Programming,Yes,6,5,Data Analyst
+508,Priya,20,B.Tech Electronics,9.51,2,5,2,5,2,5,3,5,5,3,Programming,Yes,5,2,Data Analyst
+509,Rahul,25,B.Com,6.06,2,0,0,5,1,3,4,1,5,4,Design,No,6,4,Data Analyst
+510,Sneha,19,B.Tech Computer Science,9.57,4,4,2,3,1,5,0,1,3,4,Artificial Intelligence,No,5,1,Web Developer
+511,Sneha,18,B.Sc Computer Science,8.97,3,4,5,2,5,1,1,3,2,1,Web Development,No,0,2,Machine Learning Engineer
+512,Ananya,21,B.Tech Computer Science,6.78,4,4,3,1,4,1,5,1,3,5,Design,Yes,1,4,Machine Learning Engineer
+513,Aarav,19,BCA,7.04,5,1,5,0,5,5,4,2,5,3,Cybersecurity,No,8,3,Web Developer
+514,Vikram,24,B.Tech Computer Science,9.42,3,0,5,4,3,3,2,4,4,3,Cybersecurity,Yes,3,0,Data Analyst
+515,Neha,24,MCA,7.26,4,4,0,5,1,5,3,2,3,1,Artificial Intelligence,Yes,3,1,Data Analyst
+516,Aarav,22,B.Tech IT,8.5,1,0,4,5,2,2,1,1,4,4,Artificial Intelligence,No,3,2,Data Analyst
+517,Rahul,23,B.Sc Computer Science,9.77,5,5,3,4,0,0,0,5,4,1,Artificial Intelligence,No,5,5,Data Analyst
+518,Arjun,20,B.Tech Computer Science,9.68,4,5,3,0,0,5,0,1,3,5,Cybersecurity,Yes,4,3,Web Developer
+519,Neha,19,BBA,6.93,5,3,3,3,4,4,0,5,1,4,Programming,Yes,7,4,Web Developer
+520,Priya,21,B.Tech IT,6.41,5,4,1,5,4,2,2,1,5,2,Web Development,No,7,1,Machine Learning Engineer
+521,Neha,20,B.Tech Computer Science,6.24,3,5,2,2,4,4,1,5,4,5,Data Science,No,4,4,Machine Learning Engineer
+522,Neha,22,B.Com,9.88,5,1,4,4,0,3,2,5,2,1,Data Science,Yes,3,0,Database Administrator
+523,Sneha,21,MCA,8.78,4,4,2,4,2,3,2,5,3,5,Data Science,Yes,7,0,Data Analyst
+524,Neha,21,B.Tech Computer Science,8.56,2,1,3,5,2,5,3,4,5,2,Data Science,No,2,0,Data Analyst
+525,Ananya,18,B.Tech IT,7.43,5,3,1,5,4,2,0,1,2,3,Artificial Intelligence,Yes,3,2,Data Scientist
+526,Rahul,21,B.Tech Electronics,8.88,3,1,0,1,2,0,0,5,2,2,Business,Yes,6,5,Business Analyst
+527,Kiran,23,B.Sc Computer Science,7.22,2,4,4,3,5,0,0,3,3,2,Data Science,Yes,3,1,Machine Learning Engineer
+528,Kiran,24,B.Com,7.27,4,4,1,4,2,1,2,2,1,5,Data Science,Yes,4,1,UI/UX Designer
+529,Neha,25,B.Sc Computer Science,8.91,4,4,3,5,4,2,3,5,1,2,Cybersecurity,No,2,2,Machine Learning Engineer
+530,Ananya,25,MCA,7.9,5,1,1,1,3,1,3,4,5,1,Data Science,No,6,3,Database Administrator
+531,Sneha,23,B.Tech Electronics,8.2,2,4,2,1,4,0,3,1,3,4,Cybersecurity,No,6,3,Machine Learning Engineer
+532,Kiran,24,BBA,7.47,4,0,1,3,1,2,5,3,3,4,Artificial Intelligence,No,1,2,Cybersecurity Specialist
+533,Vikram,19,B.Tech Electronics,9.71,1,0,4,1,2,1,5,1,1,3,Programming,No,4,5,Cybersecurity Specialist
+534,Arjun,21,BCA,9.99,5,2,2,3,3,4,5,3,1,3,Artificial Intelligence,No,8,1,Web Developer
+535,Arjun,21,B.Sc Computer Science,8.89,2,4,4,3,5,3,2,4,2,5,Business,Yes,5,1,Machine Learning Engineer
+536,Arjun,24,B.Sc Computer Science,7.75,5,4,1,2,5,0,3,1,3,2,Business,No,5,1,Machine Learning Engineer
+537,Arjun,24,BBA,9.05,5,0,4,0,1,1,2,3,3,5,Cybersecurity,No,6,1,UI/UX Designer
+538,Riya,19,BBA,6.75,1,5,2,0,1,0,5,3,5,4,Cybersecurity,Yes,0,5,Cybersecurity Specialist
+539,Ananya,25,B.Tech Computer Science,6.75,1,1,2,5,4,0,3,4,3,2,Artificial Intelligence,No,8,0,Data Analyst
+540,Sneha,23,BBA,7.56,1,3,5,0,3,1,1,2,5,4,Business,Yes,4,3,UI/UX Designer
+541,Riya,20,B.Tech Electronics,8.35,5,0,1,3,0,3,4,4,3,2,Business,Yes,8,2,Cybersecurity Specialist
+542,Ananya,25,MCA,7.85,1,2,5,5,2,3,4,1,3,4,Business,Yes,6,1,Data Analyst
+543,Priya,24,MCA,7.54,2,5,0,1,1,2,5,5,1,4,Cybersecurity,No,1,5,Cybersecurity Specialist
+544,Aarav,25,BBA,9.97,5,0,4,2,3,3,1,1,3,1,Programming,Yes,8,0,UI/UX Designer
+545,Rahul,19,MCA,7.52,4,0,2,0,5,1,2,2,4,1,Design,No,7,3,Data Scientist
+546,Aarav,21,MCA,6.56,3,4,0,1,2,0,4,2,2,1,Design,No,2,0,Cybersecurity Specialist
+547,Vikram,22,BCA,7.76,2,1,3,5,0,5,4,2,1,5,Design,Yes,6,5,Web Developer
+548,Rahul,25,B.Tech Computer Science,8.39,1,2,1,1,0,0,3,4,2,2,Artificial Intelligence,Yes,5,1,Data Scientist
+549,Arjun,21,B.Tech IT,9.19,2,4,0,2,2,4,5,2,1,4,Data Science,Yes,8,3,Web Developer
+550,Riya,19,B.Sc Computer Science,6.86,3,3,5,2,0,3,1,3,2,1,Web Development,Yes,1,5,Web Developer
+551,Arjun,23,B.Tech Computer Science,6.27,2,3,0,5,4,4,1,4,3,5,Programming,Yes,5,5,Data Analyst
+552,Aarav,20,B.Com,6.7,3,0,4,4,3,3,4,4,1,3,Design,Yes,8,4,Cybersecurity Specialist
+553,Arjun,21,B.Tech Computer Science,8.47,1,1,4,0,0,1,2,3,2,4,Web Development,No,3,1,UI/UX Designer
+554,Neha,21,B.Tech Computer Science,6.95,5,2,2,5,0,4,3,4,3,2,Design,No,0,1,Data Analyst
+555,Priya,23,B.Sc Computer Science,6.82,1,3,4,2,1,3,5,2,2,5,Artificial Intelligence,Yes,7,0,Cybersecurity Specialist
+556,Priya,18,BCA,9.75,2,4,1,1,4,0,3,1,2,5,Design,No,4,1,Machine Learning Engineer
+557,Sneha,21,BBA,6.71,2,3,5,1,2,3,0,3,3,5,Programming,No,6,1,UI/UX Designer
+558,Sneha,25,BBA,8.02,4,3,3,0,2,4,4,2,4,1,Data Science,Yes,4,3,Web Developer
+559,Neha,22,MCA,7.13,5,2,1,5,3,1,1,5,4,1,Data Science,Yes,0,4,Data Analyst
+560,Arjun,25,BBA,9.7,4,2,5,4,0,3,0,3,4,4,Artificial Intelligence,No,2,1,Data Analyst
+561,Ananya,22,B.Com,8.04,4,3,5,1,1,3,0,3,1,4,Business,No,0,5,UI/UX Designer
+562,Riya,22,MCA,9.78,2,4,5,1,0,0,0,3,2,5,Design,No,6,5,UI/UX Designer
+563,Riya,19,B.Sc Computer Science,9.5,2,4,4,5,3,4,2,4,3,3,Design,No,1,0,Data Analyst
+564,Arjun,23,BCA,7.08,2,1,3,0,0,0,5,4,3,1,Web Development,No,4,5,Cybersecurity Specialist
+565,Vikram,20,BCA,7.5,2,4,0,3,4,1,1,2,4,2,Data Science,Yes,2,1,Machine Learning Engineer
+566,Sneha,24,MCA,8.51,5,2,0,3,0,2,0,1,2,1,Programming,Yes,3,3,Database Administrator
+567,Neha,19,B.Tech Computer Science,6.24,1,1,4,0,3,4,4,5,1,1,Business,No,7,3,Web Developer
+568,Sneha,24,B.Com,7.48,3,5,3,3,4,0,2,3,2,3,Business,No,1,0,Machine Learning Engineer
+569,Neha,24,BCA,6.1,1,2,3,4,5,5,3,5,3,2,Cybersecurity,No,3,0,Data Analyst
+570,Arjun,18,B.Com,9.49,3,3,3,5,4,0,2,4,2,5,Web Development,No,1,5,UI/UX Designer
+571,Rahul,22,B.Sc Computer Science,8.85,5,1,3,0,2,5,4,5,5,1,Business,No,2,3,Web Developer
+572,Rahul,25,B.Sc Computer Science,6.97,2,5,0,1,2,3,2,1,1,4,Data Science,No,7,5,UI/UX Designer
+573,Priya,20,MCA,6.36,3,0,5,2,3,5,5,2,5,5,Design,No,8,3,Web Developer
+574,Riya,21,B.Tech Electronics,6.46,1,5,4,1,5,0,4,1,1,3,Programming,Yes,5,3,Machine Learning Engineer
+575,Aarav,18,B.Tech Electronics,6.25,5,2,2,5,1,4,5,2,4,4,Cybersecurity,Yes,1,3,Data Analyst
+576,Kiran,25,B.Com,6.58,3,1,4,2,1,5,5,2,4,4,Business,Yes,5,2,Web Developer
+577,Aarav,19,B.Tech Electronics,9.99,5,2,5,3,0,2,1,4,2,4,Business,Yes,3,5,UI/UX Designer
+578,Kiran,20,MCA,8.91,3,3,2,3,5,3,2,2,1,5,Business,No,6,0,UI/UX Designer
+579,Sneha,22,B.Tech Electronics,8.79,2,1,2,4,0,5,2,5,4,1,Web Development,Yes,2,3,Data Analyst
+580,Neha,22,BCA,6.84,2,0,5,1,3,3,5,1,3,5,Business,Yes,0,0,Cybersecurity Specialist
+581,Sneha,25,BCA,9.78,1,3,1,5,5,3,1,5,3,5,Artificial Intelligence,Yes,3,3,Data Analyst
+582,Sneha,22,BCA,8.61,4,2,5,5,3,2,0,1,4,4,Artificial Intelligence,Yes,1,0,Data Analyst
+583,Neha,21,B.Tech Computer Science,8.35,5,4,1,3,3,5,5,4,3,1,Web Development,No,2,0,Web Developer
+584,Rahul,19,BCA,7.62,1,4,3,0,4,4,4,4,5,5,Design,Yes,3,5,Machine Learning Engineer
+585,Kiran,20,BCA,6.02,4,1,4,1,5,1,0,3,1,1,Cybersecurity,No,0,0,Data Scientist
+586,Neha,22,B.Com,9.87,2,2,0,4,2,5,4,4,1,2,Web Development,Yes,7,5,Web Developer
+587,Riya,23,B.Sc Computer Science,8.75,1,1,2,1,1,4,4,2,1,2,Data Science,No,4,1,Web Developer
+588,Vikram,24,B.Tech IT,8.2,3,3,0,2,5,3,5,4,2,4,Data Science,Yes,1,5,Cybersecurity Specialist
+589,Kiran,21,B.Com,8.25,5,1,2,3,3,0,4,5,2,4,Data Science,Yes,4,0,Cybersecurity Specialist
+590,Kiran,19,BBA,6.26,1,1,1,2,0,0,3,3,3,3,Data Science,No,1,0,Data Analyst
+591,Kiran,22,MCA,6.38,3,2,4,0,0,1,2,5,3,5,Business,No,2,2,UI/UX Designer
+592,Priya,24,MCA,8.37,3,5,1,1,3,4,5,1,5,2,Programming,Yes,5,5,Web Developer
+593,Neha,24,MCA,6.73,3,2,3,4,5,1,2,4,5,3,Design,Yes,4,3,Data Analyst
+594,Kiran,19,B.Tech IT,6.31,2,0,0,5,2,4,3,1,2,5,Business,Yes,6,5,Web Developer
+595,Kiran,20,MCA,7.99,5,4,1,5,0,5,3,1,4,1,Design,No,3,5,Data Analyst
+596,Rahul,18,MCA,9.86,5,2,1,4,2,0,3,2,2,1,Web Development,No,2,2,Database Administrator
+597,Kiran,23,B.Sc Computer Science,9.33,1,2,2,1,0,5,5,3,3,4,Cybersecurity,No,3,2,Web Developer
+598,Neha,18,MCA,9.57,4,4,3,2,2,2,0,1,3,1,Artificial Intelligence,No,2,3,Data Scientist
+599,Arjun,18,B.Tech IT,7.72,2,1,3,0,3,0,1,1,5,5,Business,No,3,3,UI/UX Designer
+600,Priya,23,B.Tech Electronics,7.46,2,3,5,3,1,1,2,5,3,1,Design,No,0,2,Database Administrator
+601,Kiran,19,B.Sc Computer Science,7.14,2,0,1,5,1,3,5,4,4,3,Programming,Yes,6,3,Data Analyst
+602,Arjun,25,BCA,7.3,4,0,0,0,1,1,2,5,4,2,Cybersecurity,Yes,3,0,Cybersecurity Specialist
+603,Priya,18,BBA,7.92,3,1,4,1,5,4,1,4,1,4,Data Science,No,1,2,Web Developer
+604,Vikram,24,B.Sc Computer Science,7.9,1,1,4,5,5,1,1,5,5,2,Artificial Intelligence,Yes,6,0,Data Analyst
+605,Sneha,21,BCA,7.71,5,3,3,4,2,5,5,2,1,1,Data Science,Yes,5,3,Web Developer
+606,Aarav,18,BBA,8.58,3,2,2,5,3,1,2,1,3,3,Artificial Intelligence,Yes,0,0,Data Analyst
+607,Kiran,23,B.Sc Computer Science,7.14,3,1,2,3,2,2,2,5,1,4,Artificial Intelligence,Yes,0,5,UI/UX Designer
+608,Riya,20,B.Com,7.44,3,2,1,5,2,1,4,5,5,5,Web Development,Yes,1,1,Data Analyst
+609,Ananya,19,B.Tech Computer Science,8.35,2,0,4,4,2,2,5,2,4,1,Web Development,Yes,8,5,Data Analyst
+610,Kiran,18,BCA,6.77,5,2,3,5,5,0,3,3,5,3,Artificial Intelligence,No,6,4,Data Analyst
+611,Kiran,18,BCA,8.4,2,0,5,1,5,3,3,3,1,5,Design,Yes,2,3,UI/UX Designer
+612,Kiran,24,BBA,7.6,3,1,4,1,4,5,0,2,2,1,Business,No,8,5,Web Developer
+613,Vikram,22,B.Tech Electronics,9.41,3,1,1,0,4,1,2,3,5,1,Artificial Intelligence,Yes,4,1,Data Scientist
+614,Riya,18,B.Sc Computer Science,9.96,2,5,2,5,4,2,2,5,1,1,Artificial Intelligence,No,2,3,Machine Learning Engineer
+615,Riya,22,B.Com,9.94,1,1,2,0,4,5,4,3,2,3,Artificial Intelligence,No,4,5,Web Developer
+616,Sneha,21,MCA,6.88,3,1,3,1,5,5,3,2,5,4,Programming,Yes,7,0,Web Developer
+617,Riya,20,MCA,6.74,2,5,1,5,2,0,2,2,5,4,Data Science,Yes,6,5,Data Analyst
+618,Aarav,21,B.Tech IT,6.57,4,0,5,4,1,5,0,2,4,4,Cybersecurity,Yes,6,3,Data Analyst
+619,Neha,19,B.Tech Computer Science,9.05,1,2,1,5,4,0,0,2,2,1,Business,Yes,8,5,Business Analyst
+620,Aarav,19,B.Sc Computer Science,6.56,5,2,3,1,1,0,4,4,2,3,Design,No,8,0,Cybersecurity Specialist
+621,Rahul,18,B.Tech IT,8.18,1,0,1,0,1,3,3,5,4,2,Data Science,No,4,1,Cloud Engineer
+622,Kiran,25,BCA,9.96,2,0,4,2,0,2,0,1,3,3,Artificial Intelligence,Yes,2,3,Data Scientist
+623,Ananya,23,BCA,8.72,2,2,0,2,3,5,2,3,5,3,Programming,Yes,0,1,Web Developer
+624,Neha,23,BCA,7.56,4,3,5,2,1,0,2,1,1,5,Data Science,Yes,6,2,UI/UX Designer
+625,Priya,25,BBA,7.93,4,5,1,3,3,4,3,5,3,2,Cybersecurity,No,8,4,Web Developer
+626,Sneha,24,B.Tech IT,8.32,4,5,0,1,2,0,1,5,5,2,Business,Yes,5,4,Business Analyst
+627,Ananya,20,B.Tech IT,6.24,3,3,1,4,3,1,1,3,2,3,Business,Yes,0,5,Business Analyst
+628,Neha,19,BCA,7.51,1,5,0,5,4,0,3,4,3,1,Business,Yes,0,1,Machine Learning Engineer
+629,Neha,20,B.Tech IT,6.98,1,1,3,5,1,5,4,5,4,2,Design,No,7,3,Data Analyst
+630,Vikram,25,B.Tech Computer Science,7.15,2,1,4,1,0,3,3,1,1,5,Design,No,8,5,UI/UX Designer
+631,Kiran,22,B.Sc Computer Science,7.69,2,3,1,5,1,3,4,3,1,5,Artificial Intelligence,Yes,6,1,Cybersecurity Specialist
+632,Neha,19,MCA,7.91,4,2,5,3,1,2,0,4,2,1,Artificial Intelligence,Yes,5,4,Data Scientist
+633,Rahul,18,B.Sc Computer Science,7.13,5,4,0,2,1,4,1,1,1,2,Design,Yes,3,2,Web Developer
+634,Rahul,18,MCA,6.18,3,2,2,3,4,1,2,1,3,1,Business,No,5,1,Business Analyst
+635,Sneha,23,BBA,9.59,5,0,4,3,3,4,0,1,5,2,Programming,Yes,2,5,Web Developer
+636,Neha,19,B.Tech IT,9.81,2,4,4,5,4,5,4,2,2,2,Business,No,7,1,Machine Learning Engineer
+637,Ananya,22,B.Com,8.49,4,1,4,4,0,1,4,1,4,2,Design,No,1,0,Data Analyst
+638,Sneha,22,B.Tech IT,8.0,4,1,0,2,4,2,2,3,2,3,Artificial Intelligence,Yes,2,5,Data Scientist
+639,Kiran,22,MCA,9.91,4,3,0,2,2,3,3,2,1,5,Business,Yes,7,2,UI/UX Designer
+640,Ananya,23,B.Com,6.33,4,5,0,4,5,0,5,5,4,3,Business,Yes,8,0,Machine Learning Engineer
+641,Ananya,19,B.Tech Electronics,7.5,5,3,3,5,0,2,3,4,1,2,Web Development,No,1,0,Database Administrator
+642,Sneha,19,BBA,9.07,2,2,2,4,3,1,5,4,3,1,Design,No,1,2,Data Analyst
+643,Aarav,18,BCA,9.79,2,0,4,3,0,2,3,2,3,5,Web Development,Yes,0,1,UI/UX Designer
+644,Vikram,24,B.Tech Electronics,7.01,2,2,3,0,2,5,3,1,2,1,Business,No,8,1,Web Developer
+645,Riya,20,B.Tech Computer Science,6.37,4,1,2,3,3,3,4,3,3,2,Design,Yes,6,2,Cybersecurity Specialist
+646,Sneha,24,B.Tech Computer Science,8.24,5,4,1,2,5,5,5,2,1,5,Business,No,0,1,Machine Learning Engineer
+647,Priya,20,MCA,9.46,1,5,0,3,1,5,3,4,3,5,Design,Yes,0,1,Web Developer
+648,Sneha,24,BCA,8.4,2,5,4,0,2,2,0,3,2,2,Programming,No,8,0,UI/UX Designer
+649,Arjun,24,BBA,7.41,5,0,1,3,3,2,1,4,5,3,Cybersecurity,Yes,8,3,Database Administrator
+650,Aarav,22,BBA,8.54,5,0,5,0,4,3,0,1,1,1,Web Development,Yes,7,4,Database Administrator
+651,Priya,22,BBA,6.85,4,1,3,0,2,3,3,5,4,1,Business,No,0,2,Business Analyst
+652,Riya,22,B.Tech Electronics,9.52,3,0,3,0,0,0,1,3,4,2,Business,No,8,5,Business Analyst
+653,Arjun,23,B.Com,6.68,5,3,1,4,5,3,0,4,2,5,Business,No,2,5,UI/UX Designer
+654,Ananya,20,BBA,9.62,5,0,5,1,4,0,5,2,4,2,Cybersecurity,No,4,4,Cybersecurity Specialist
+655,Ananya,23,B.Sc Computer Science,6.37,1,1,0,4,5,4,0,4,1,5,Cybersecurity,No,0,5,Web Developer
+656,Aarav,25,B.Com,6.75,2,1,5,3,2,5,0,3,2,5,Programming,Yes,2,5,Web Developer
+657,Rahul,19,B.Tech IT,7.84,5,2,2,1,0,0,3,1,1,2,Business,No,3,3,Business Analyst
+658,Riya,25,B.Tech Computer Science,7.65,4,3,2,5,3,1,1,1,2,4,Programming,Yes,2,5,UI/UX Designer
+659,Aarav,18,B.Tech IT,9.9,3,4,0,1,4,5,2,4,5,5,Artificial Intelligence,Yes,0,4,Machine Learning Engineer
+660,Rahul,20,B.Sc Computer Science,9.47,1,1,1,0,5,5,1,2,1,3,Programming,No,7,1,Web Developer
+661,Riya,23,B.Tech Electronics,7.87,4,1,2,1,1,5,5,4,5,4,Programming,No,1,4,Web Developer
+662,Riya,22,BCA,9.18,4,4,5,2,2,4,0,4,4,4,Cybersecurity,No,6,1,Web Developer
+663,Rahul,23,B.Com,9.59,1,4,2,4,3,2,4,4,2,1,Business,No,6,0,Cybersecurity Specialist
+664,Aarav,20,B.Com,7.72,2,1,5,2,2,1,2,3,2,1,Artificial Intelligence,Yes,5,5,Data Scientist
+665,Arjun,23,B.Sc Computer Science,7.86,3,3,2,4,1,4,1,2,5,1,Artificial Intelligence,No,1,4,Data Analyst
+666,Arjun,24,B.Com,9.25,2,3,0,2,3,0,0,2,1,4,Web Development,Yes,5,4,UI/UX Designer
+667,Rahul,21,B.Tech Computer Science,7.14,5,1,3,0,4,4,0,1,4,3,Programming,Yes,1,3,Web Developer
+668,Rahul,24,B.Tech Electronics,7.1,3,2,3,4,0,3,2,4,1,5,Design,No,7,5,UI/UX Designer
+669,Aarav,23,B.Tech IT,6.12,1,2,5,5,3,1,1,1,2,1,Artificial Intelligence,Yes,5,4,Data Scientist
+670,Sneha,18,B.Tech Electronics,9.53,1,0,2,2,5,4,3,1,1,3,Programming,Yes,2,4,Web Developer
+671,Sneha,19,BCA,7.28,2,5,0,4,4,1,4,5,4,4,Web Development,No,4,2,Machine Learning Engineer
+672,Priya,21,B.Tech IT,7.06,3,1,5,5,5,1,5,1,3,5,Artificial Intelligence,Yes,7,0,Data Analyst
+673,Ananya,18,B.Sc Computer Science,7.87,4,2,1,4,4,4,2,2,4,1,Business,No,7,5,Data Analyst
+674,Rahul,19,BCA,6.88,3,4,1,3,1,0,2,4,4,5,Web Development,Yes,4,4,UI/UX Designer
+675,Kiran,20,MCA,9.5,1,1,2,0,3,5,4,2,1,4,Web Development,No,4,0,Web Developer
+676,Arjun,19,B.Com,7.73,2,4,2,0,3,2,2,4,5,4,Artificial Intelligence,Yes,6,5,UI/UX Designer
+677,Rahul,21,B.Tech Electronics,6.76,2,4,3,4,3,0,5,5,3,5,Artificial Intelligence,Yes,1,1,Data Analyst
+678,Vikram,18,B.Tech Computer Science,8.3,2,2,1,4,5,5,3,1,5,1,Web Development,No,1,1,Data Analyst
+679,Priya,25,B.Sc Computer Science,6.68,2,2,5,0,0,1,4,3,3,5,Design,No,4,5,Cybersecurity Specialist
+680,Ananya,20,B.Com,8.73,2,1,0,5,3,3,2,2,3,4,Artificial Intelligence,Yes,4,0,Data Analyst
+681,Ananya,18,B.Com,9.88,5,3,0,0,0,4,5,1,4,2,Programming,Yes,8,4,Web Developer
+682,Neha,20,B.Tech IT,6.4,3,4,2,5,3,2,2,4,4,3,Web Development,Yes,5,2,Data Analyst
+683,Rahul,25,B.Tech IT,7.08,5,1,5,1,2,3,0,1,2,4,Data Science,No,5,1,UI/UX Designer
+684,Priya,21,BBA,8.55,3,1,2,5,2,2,3,5,4,5,Cybersecurity,No,4,2,Data Analyst
+685,Vikram,18,B.Com,9.34,1,2,2,0,0,3,5,4,4,5,Data Science,No,2,4,Cybersecurity Specialist
+686,Neha,20,B.Tech Electronics,7.95,1,0,1,2,4,0,0,3,1,4,Web Development,No,0,3,UI/UX Designer
+687,Priya,18,B.Tech Computer Science,7.01,3,1,0,5,2,1,5,3,5,5,Data Science,No,1,2,Data Analyst
+688,Ananya,18,MCA,9.73,2,0,2,2,4,2,1,4,4,4,Cybersecurity,No,5,4,UI/UX Designer
+689,Ananya,21,B.Tech Electronics,6.54,5,0,2,4,5,3,4,2,3,3,Data Science,No,6,0,Data Analyst
+690,Riya,25,B.Com,8.02,3,3,3,3,3,0,4,4,3,4,Artificial Intelligence,No,1,1,Cybersecurity Specialist
+691,Sneha,22,B.Sc Computer Science,8.32,3,4,2,0,3,1,3,2,5,5,Design,Yes,7,4,UI/UX Designer
+692,Ananya,18,B.Tech IT,6.22,1,2,4,3,5,2,0,3,5,1,Artificial Intelligence,Yes,3,4,Data Scientist
+693,Rahul,25,BCA,6.89,2,3,4,5,1,0,0,3,3,1,Artificial Intelligence,Yes,1,4,Data Analyst
+694,Riya,21,B.Sc Computer Science,6.41,1,0,0,2,3,3,1,5,4,4,Business,Yes,8,2,UI/UX Designer
+695,Rahul,25,B.Tech IT,7.73,1,1,4,5,5,4,1,2,2,2,Web Development,No,4,2,Web Developer
+696,Vikram,25,B.Com,8.67,4,3,3,1,0,2,3,4,1,4,Artificial Intelligence,No,0,4,UI/UX Designer
+697,Kiran,18,MCA,6.17,3,2,0,1,2,4,4,2,4,4,Data Science,No,8,3,Web Developer
+698,Riya,19,BCA,8.62,3,5,1,2,5,2,3,5,3,4,Artificial Intelligence,No,6,3,Machine Learning Engineer
+699,Rahul,20,B.Tech Electronics,6.52,3,4,4,3,0,0,0,5,5,3,Business,Yes,3,0,Business Analyst
+700,Rahul,25,MCA,7.29,2,5,3,3,0,0,4,2,1,2,Programming,Yes,0,5,Cybersecurity Specialist
+701,Sneha,25,B.Com,8.43,1,5,3,3,1,5,4,2,3,1,Cybersecurity,Yes,3,2,Web Developer
+702,Neha,25,B.Tech Electronics,6.9,2,0,4,0,5,5,0,4,5,2,Data Science,Yes,2,0,Web Developer
+703,Arjun,24,B.Tech IT,7.36,5,4,3,4,2,2,4,4,2,2,Cybersecurity,Yes,1,3,Cybersecurity Specialist
+704,Vikram,24,B.Tech IT,8.28,2,0,3,1,0,4,4,5,3,1,Programming,Yes,3,2,Web Developer
+705,Rahul,24,B.Com,6.27,2,4,1,4,4,4,2,3,1,5,Web Development,Yes,8,5,Machine Learning Engineer
+706,Sneha,25,B.Tech Electronics,8.61,1,1,2,0,1,1,4,3,4,3,Business,No,0,1,Cybersecurity Specialist
+707,Kiran,19,B.Tech Computer Science,7.38,1,0,4,3,1,2,5,4,5,5,Artificial Intelligence,Yes,0,3,Cybersecurity Specialist
+708,Aarav,21,B.Com,7.73,3,0,1,4,4,3,5,2,1,1,Design,Yes,8,3,Cybersecurity Specialist
+709,Priya,24,BBA,8.78,4,0,3,0,4,2,2,4,5,2,Data Science,No,6,0,Machine Learning Engineer
+710,Neha,19,B.Tech Computer Science,6.91,5,5,1,0,0,0,1,5,1,1,Web Development,Yes,4,0,Cybersecurity Specialist
+711,Vikram,21,B.Tech Electronics,6.52,4,0,2,4,1,3,5,4,1,1,Design,No,3,3,Cybersecurity Specialist
+712,Priya,23,B.Tech Electronics,9.48,2,5,4,4,0,0,2,5,3,3,Web Development,No,4,0,Data Analyst
+713,Sneha,20,B.Sc Computer Science,7.22,5,5,1,0,1,5,3,2,1,3,Design,No,1,0,Web Developer
+714,Priya,18,B.Tech Electronics,7.11,4,2,4,3,3,0,3,3,1,1,Web Development,No,0,1,Database Administrator
+715,Riya,24,BCA,8.64,5,4,2,0,4,2,2,1,3,1,Business,Yes,0,2,Machine Learning Engineer
+716,Sneha,24,BBA,9.13,1,5,5,2,4,3,3,1,5,4,Cybersecurity,No,2,3,Machine Learning Engineer
+717,Vikram,21,BCA,9.63,3,4,2,2,4,3,0,3,1,2,Cybersecurity,No,5,2,Machine Learning Engineer
+718,Arjun,18,B.Tech IT,7.23,3,3,0,3,0,3,0,3,2,4,Programming,No,8,1,UI/UX Designer
+719,Aarav,18,B.Tech IT,7.11,5,3,1,2,2,2,3,5,3,1,Data Science,Yes,2,1,Database Administrator
+720,Neha,21,B.Tech IT,8.62,2,2,0,4,5,1,0,5,4,5,Design,No,4,0,Data Analyst
+721,Arjun,18,B.Sc Computer Science,7.4,1,4,0,1,1,2,4,5,4,1,Programming,No,1,5,Cybersecurity Specialist
+722,Ananya,22,BCA,6.1,5,5,2,3,2,4,0,3,3,4,Data Science,No,0,2,Web Developer
+723,Rahul,18,B.Tech IT,8.44,3,5,2,1,3,4,0,5,5,5,Design,Yes,6,5,Web Developer
+724,Priya,19,B.Sc Computer Science,8.26,5,5,0,4,0,4,3,5,4,5,Design,No,5,2,Data Analyst
+725,Kiran,22,B.Sc Computer Science,7.31,3,5,0,5,1,3,5,2,4,3,Web Development,No,1,2,Data Analyst
+726,Neha,19,B.Com,8.61,5,1,4,1,4,1,3,2,4,4,Design,Yes,4,2,UI/UX Designer
+727,Kiran,23,B.Tech IT,6.33,4,3,5,1,1,3,0,5,2,5,Data Science,Yes,6,2,UI/UX Designer
+728,Kiran,25,B.Tech IT,6.51,1,0,1,4,4,3,3,4,1,2,Programming,Yes,6,5,Database Administrator
+729,Arjun,21,B.Tech Electronics,6.48,3,0,5,0,0,5,2,5,5,5,Web Development,No,7,5,Web Developer
+730,Sneha,22,MCA,8.8,2,1,0,4,4,2,5,5,5,1,Design,No,6,2,Data Analyst
+731,Arjun,20,B.Tech Electronics,9.78,1,2,0,4,4,4,4,2,3,4,Cybersecurity,No,4,2,Data Analyst
+732,Vikram,23,BCA,9.81,1,2,4,4,2,0,2,2,4,5,Programming,Yes,1,2,Data Analyst
+733,Aarav,25,MCA,6.89,2,0,1,5,2,1,0,3,3,5,Data Science,Yes,0,4,Data Analyst
+734,Rahul,21,B.Tech Computer Science,7.95,1,4,3,5,3,4,1,3,2,3,Business,No,4,0,Web Developer
+735,Vikram,25,BBA,7.97,1,2,0,5,1,5,0,2,3,1,Programming,Yes,8,2,Data Analyst
+736,Ananya,25,B.Tech IT,8.83,3,5,4,2,1,4,5,1,4,1,Business,Yes,0,1,Web Developer
+737,Priya,24,B.Sc Computer Science,8.69,3,1,5,3,2,1,1,4,2,4,Design,Yes,8,5,UI/UX Designer
+738,Kiran,18,BBA,6.27,5,0,3,5,2,4,3,5,2,2,Design,Yes,5,3,Web Developer
+739,Sneha,20,B.Tech Electronics,9.36,3,4,2,4,3,2,0,4,4,4,Data Science,Yes,4,3,Data Analyst
+740,Arjun,23,B.Sc Computer Science,8.65,1,5,0,2,5,3,5,2,4,3,Data Science,No,7,4,Machine Learning Engineer
+741,Vikram,21,B.Tech Computer Science,7.16,5,4,2,2,5,2,3,2,4,1,Web Development,No,6,3,Machine Learning Engineer
+742,Riya,18,B.Tech Electronics,7.94,2,3,3,1,4,1,4,3,1,3,Data Science,Yes,5,1,Cybersecurity Specialist
+743,Arjun,18,B.Tech Computer Science,9.21,1,0,5,0,4,1,2,3,3,5,Cybersecurity,Yes,2,4,UI/UX Designer
+744,Sneha,21,B.Tech Electronics,9.21,3,4,5,1,0,0,0,3,4,2,Business,Yes,8,3,Business Analyst
+745,Rahul,18,BCA,7.13,1,2,5,0,3,5,3,2,2,1,Data Science,No,1,0,Web Developer
+746,Aarav,24,B.Tech Computer Science,6.06,5,5,4,3,1,4,2,5,2,1,Business,No,6,4,Web Developer
+747,Kiran,22,B.Tech Electronics,7.84,1,3,2,3,0,1,3,3,5,4,Cybersecurity,No,7,2,UI/UX Designer
+748,Sneha,21,BBA,6.07,4,5,0,3,1,4,0,4,3,5,Web Development,Yes,7,2,Web Developer
+749,Riya,19,B.Tech Electronics,7.33,1,1,3,4,1,0,1,1,5,2,Web Development,No,8,5,Data Analyst
+750,Priya,21,B.Tech Computer Science,9.07,3,1,0,2,5,4,4,4,3,3,Web Development,Yes,4,5,Web Developer
+751,Aarav,25,MCA,7.25,2,4,4,5,5,0,0,3,4,4,Web Development,Yes,6,1,Machine Learning Engineer
+752,Vikram,20,B.Tech IT,6.66,4,3,1,5,4,3,1,1,1,4,Design,No,6,0,UI/UX Designer
+753,Riya,19,BBA,9.98,3,2,4,5,1,1,2,5,3,5,Cybersecurity,Yes,5,4,Data Analyst
+754,Vikram,22,MCA,7.85,3,5,3,0,2,3,1,2,2,5,Data Science,No,1,0,UI/UX Designer
+755,Aarav,21,B.Sc Computer Science,8.78,5,0,4,3,4,1,0,4,3,1,Programming,Yes,5,5,Database Administrator
+756,Ananya,21,B.Tech Electronics,7.14,4,4,3,2,4,4,5,5,3,3,Design,Yes,1,4,Machine Learning Engineer
+757,Ananya,19,B.Sc Computer Science,7.12,3,4,4,5,3,2,4,5,1,2,Business,No,7,1,Cybersecurity Specialist
+758,Neha,18,B.Sc Computer Science,9.96,1,1,3,0,2,0,0,5,2,2,Data Science,No,6,5,UI/UX Designer
+759,Vikram,22,B.Tech IT,6.96,4,2,2,4,2,4,0,4,4,4,Cybersecurity,Yes,2,5,Data Analyst
+760,Arjun,20,BBA,8.24,4,3,5,2,1,0,2,3,1,5,Business,No,5,5,UI/UX Designer
+761,Kiran,21,B.Sc Computer Science,7.53,2,2,4,1,0,4,2,1,2,4,Programming,Yes,5,2,Web Developer
+762,Sneha,18,B.Tech Electronics,6.13,3,5,5,2,2,5,0,4,4,1,Cybersecurity,Yes,7,4,Web Developer
+763,Rahul,25,BCA,7.89,5,0,4,5,1,5,5,1,1,3,Data Science,Yes,1,3,Web Developer
+764,Neha,18,MCA,8.55,1,2,1,5,4,5,0,3,1,5,Programming,No,2,4,Web Developer
+765,Kiran,18,BBA,7.67,1,1,5,2,0,1,3,1,2,5,Artificial Intelligence,No,3,5,UI/UX Designer
+766,Rahul,24,BCA,8.54,1,2,0,2,3,4,5,3,3,5,Artificial Intelligence,No,1,0,Web Developer
+767,Ananya,20,B.Tech IT,6.74,5,1,5,2,3,0,5,1,2,1,Data Science,No,3,5,Cybersecurity Specialist
+768,Sneha,22,B.Tech Computer Science,7.52,3,4,2,3,1,1,2,2,3,2,Data Science,Yes,4,2,Database Administrator
+769,Priya,22,B.Tech IT,7.96,5,3,5,5,1,0,4,3,3,5,Web Development,Yes,8,4,Data Analyst
+770,Aarav,24,B.Com,8.58,3,4,5,2,0,4,1,2,3,5,Programming,Yes,7,2,Web Developer
+771,Ananya,19,BCA,7.9,4,4,3,5,4,0,2,5,3,3,Design,Yes,5,0,Machine Learning Engineer
+772,Arjun,24,MCA,7.34,1,1,3,4,1,0,3,2,3,3,Business,No,6,5,Data Analyst
+773,Riya,25,B.Sc Computer Science,7.01,3,5,3,2,0,1,4,5,3,4,Artificial Intelligence,No,6,2,Cybersecurity Specialist
+774,Ananya,24,B.Tech Computer Science,6.66,2,1,4,1,1,5,2,3,5,5,Business,Yes,1,2,Web Developer
+775,Priya,23,MCA,7.58,4,1,2,2,0,1,1,1,2,2,Business,Yes,6,0,Business Analyst
+776,Priya,20,B.Com,6.02,2,4,5,3,5,1,3,3,1,4,Design,No,7,5,Machine Learning Engineer
+777,Riya,19,BBA,6.51,2,5,5,3,4,3,4,4,3,3,Artificial Intelligence,No,7,5,Machine Learning Engineer
+778,Priya,18,B.Sc Computer Science,9.54,2,2,4,0,4,4,3,2,3,3,Artificial Intelligence,Yes,2,3,Web Developer
+779,Arjun,18,B.Sc Computer Science,7.21,1,3,1,2,2,3,5,3,4,2,Business,No,0,2,Cybersecurity Specialist
+780,Ananya,20,BCA,7.59,5,2,5,5,0,5,3,1,4,1,Business,Yes,2,2,Data Analyst
+781,Sneha,24,MCA,6.05,4,3,2,5,5,0,4,4,1,3,Business,No,8,2,Cybersecurity Specialist
+782,Riya,23,B.Com,6.45,2,5,0,1,0,2,5,4,5,4,Cybersecurity,No,3,4,Cybersecurity Specialist
+783,Vikram,25,BBA,6.19,3,3,2,0,4,5,2,1,1,4,Programming,No,5,5,Web Developer
+784,Arjun,18,B.Tech Electronics,6.71,3,2,2,5,0,4,0,4,1,4,Programming,Yes,8,5,Web Developer
+785,Neha,21,BCA,6.34,1,3,2,2,3,5,4,2,2,4,Data Science,No,0,0,Web Developer
+786,Rahul,23,B.Tech Computer Science,6.59,1,2,5,5,2,3,3,4,5,1,Artificial Intelligence,Yes,4,5,Data Analyst
+787,Vikram,24,B.Tech IT,9.17,5,4,4,1,5,0,2,3,3,5,Cybersecurity,No,3,3,Machine Learning Engineer
+788,Vikram,20,B.Tech Electronics,8.01,1,5,2,2,0,3,1,5,4,2,Artificial Intelligence,No,2,2,Data Scientist
+789,Riya,25,B.Com,6.39,2,0,4,2,5,5,4,1,3,2,Business,No,6,5,Web Developer
+790,Ananya,23,BBA,7.9,5,2,2,3,1,3,5,1,3,3,Web Development,Yes,8,5,Cybersecurity Specialist
+791,Sneha,24,B.Tech Electronics,7.61,5,2,0,1,5,4,2,1,4,5,Programming,No,5,3,Web Developer
+792,Ananya,18,BCA,8.5,2,3,3,0,2,4,5,5,3,5,Web Development,Yes,6,4,Web Developer
+793,Riya,24,B.Tech IT,6.39,2,2,1,1,5,3,4,2,1,5,Web Development,No,3,3,Cybersecurity Specialist
+794,Arjun,22,B.Com,9.08,1,4,3,1,3,3,3,3,5,5,Programming,No,2,1,UI/UX Designer
+795,Riya,22,B.Tech Computer Science,8.13,3,3,4,5,3,3,3,4,2,1,Data Science,Yes,3,1,Database Administrator
+796,Priya,19,BBA,9.78,3,4,5,3,5,0,2,5,2,2,Artificial Intelligence,No,8,4,Machine Learning Engineer
+797,Sneha,20,MCA,7.48,2,2,1,2,0,0,1,2,4,2,Cybersecurity,No,7,1,Database Administrator
+798,Sneha,21,BCA,9.89,5,1,1,3,5,0,0,1,5,3,Design,Yes,6,4,Database Administrator
+799,Aarav,24,B.Tech IT,9.13,3,5,4,5,0,3,3,5,1,5,Business,Yes,4,3,UI/UX Designer
+800,Neha,23,BBA,8.87,5,0,1,2,4,0,5,4,4,1,Data Science,No,6,5,Cybersecurity Specialist
+801,Vikram,20,B.Sc Computer Science,9.18,2,5,5,0,3,5,3,3,1,3,Business,Yes,4,2,Web Developer
+802,Vikram,25,B.Com,9.15,3,0,1,1,4,2,0,5,3,5,Data Science,No,5,5,UI/UX Designer
+803,Priya,22,BCA,8.27,3,1,5,5,1,1,4,4,4,3,Programming,No,4,5,Data Analyst
+804,Ananya,18,B.Sc Computer Science,8.33,2,2,5,4,5,4,3,5,1,3,Web Development,Yes,5,5,Web Developer
+805,Priya,23,B.Com,7.51,4,1,3,3,0,5,0,2,5,4,Programming,Yes,4,1,Web Developer
+806,Aarav,20,B.Tech Electronics,8.43,1,3,4,5,0,5,4,2,3,4,Data Science,Yes,5,5,Data Analyst
+807,Ananya,24,B.Tech IT,9.81,5,4,5,4,0,0,3,1,3,5,Cybersecurity,Yes,3,2,Data Analyst
+808,Vikram,21,B.Sc Computer Science,8.76,4,2,4,2,0,5,1,2,1,5,Design,Yes,2,4,Web Developer
+809,Rahul,18,B.Sc Computer Science,6.91,5,0,4,0,2,5,0,5,4,4,Data Science,No,1,3,Web Developer
+810,Riya,25,B.Sc Computer Science,6.4,5,2,4,0,4,3,0,2,5,4,Design,No,3,4,UI/UX Designer
+811,Priya,25,B.Tech Computer Science,7.01,4,5,1,2,4,3,4,5,3,4,Programming,No,4,4,Machine Learning Engineer
+812,Arjun,23,B.Tech Electronics,8.71,5,1,3,0,2,4,3,3,4,1,Web Development,Yes,2,0,Web Developer
+813,Rahul,22,B.Tech IT,9.7,4,1,0,1,1,2,4,3,5,2,Programming,No,8,3,Cybersecurity Specialist
+814,Vikram,22,B.Sc Computer Science,8.28,2,3,1,1,4,5,1,3,2,2,Programming,No,6,5,Web Developer
+815,Arjun,21,B.Tech Electronics,7.89,3,2,5,2,5,2,3,3,2,3,Programming,No,6,3,Software Developer
+816,Arjun,18,BBA,7.41,2,5,1,1,5,5,2,4,3,1,Programming,No,0,2,Machine Learning Engineer
+817,Arjun,24,B.Com,8.23,2,3,2,0,0,1,1,2,5,5,Programming,No,7,0,UI/UX Designer
+818,Sneha,25,B.Sc Computer Science,7.12,5,0,0,5,2,2,4,5,4,1,Programming,No,4,0,Data Analyst
+819,Vikram,20,B.Tech IT,7.3,4,2,4,1,4,0,3,2,2,5,Data Science,No,8,5,UI/UX Designer
+820,Vikram,22,B.Tech Computer Science,6.56,1,5,1,1,2,3,1,3,3,4,Web Development,No,5,1,UI/UX Designer
+821,Neha,22,B.Tech Computer Science,6.56,4,0,4,0,4,2,0,4,4,4,Cybersecurity,No,0,4,UI/UX Designer
+822,Arjun,25,B.Tech Electronics,8.3,1,4,0,4,1,4,0,1,5,1,Cybersecurity,No,3,0,Data Analyst
+823,Riya,22,MCA,7.81,2,5,4,2,3,4,5,3,1,2,Design,No,0,3,Web Developer
+824,Priya,22,B.Tech Computer Science,8.49,4,2,3,1,2,1,4,1,1,2,Design,No,8,3,Cybersecurity Specialist
+825,Neha,23,BCA,6.76,2,0,0,4,4,0,1,2,3,2,Cybersecurity,No,1,2,Data Analyst
+826,Priya,21,B.Sc Computer Science,6.81,2,1,2,0,1,3,0,4,3,2,Business,No,0,3,Business Analyst
+827,Rahul,24,B.Tech Computer Science,7.79,4,4,0,0,1,4,4,2,2,4,Design,Yes,2,1,Web Developer
+828,Arjun,25,B.Com,9.0,3,0,4,2,3,2,4,4,2,2,Artificial Intelligence,No,0,0,Cybersecurity Specialist
+829,Vikram,24,BBA,9.85,1,0,3,5,2,1,5,3,3,3,Artificial Intelligence,No,7,0,Data Analyst
+830,Priya,23,B.Tech Computer Science,6.56,2,1,4,1,1,5,3,2,5,1,Business,Yes,0,4,Web Developer
+831,Priya,22,B.Com,8.47,2,4,1,5,5,1,2,4,2,2,Artificial Intelligence,Yes,0,3,Machine Learning Engineer
+832,Kiran,22,BBA,8.5,3,0,2,0,3,0,5,5,3,1,Business,Yes,6,0,Cybersecurity Specialist
+833,Aarav,24,BCA,6.63,1,3,0,0,3,3,3,3,2,1,Business,No,2,4,Business Analyst
+834,Kiran,22,MCA,7.88,3,2,4,5,5,0,3,2,3,5,Web Development,Yes,2,1,Data Analyst
+835,Riya,20,BCA,6.9,1,4,0,1,1,2,1,1,4,3,Design,No,5,5,UI/UX Designer
+836,Ananya,22,BCA,7.31,3,5,3,5,0,1,1,2,5,1,Artificial Intelligence,Yes,0,1,Data Analyst
+837,Rahul,24,B.Com,6.05,4,5,4,3,3,1,3,4,3,2,Cybersecurity,No,8,3,Database Administrator
+838,Arjun,22,B.Com,7.35,2,4,3,5,0,5,2,3,3,4,Business,No,1,2,Data Analyst
+839,Arjun,18,BCA,6.38,4,5,2,1,2,2,3,1,1,5,Web Development,Yes,8,1,UI/UX Designer
+840,Kiran,21,BCA,9.36,2,4,4,1,4,4,4,1,2,3,Artificial Intelligence,No,8,1,Machine Learning Engineer
+841,Arjun,20,B.Com,6.63,2,4,4,3,1,2,0,5,2,2,Web Development,No,6,4,Database Administrator
+842,Ananya,25,MCA,7.29,3,5,4,5,2,1,5,1,1,3,Cybersecurity,Yes,0,3,Cybersecurity Specialist
+843,Rahul,20,MCA,9.29,2,3,4,1,1,2,0,4,2,4,Data Science,No,2,3,UI/UX Designer
+844,Rahul,20,B.Sc Computer Science,7.77,3,4,2,4,0,5,4,3,1,1,Web Development,Yes,7,2,Web Developer
+845,Kiran,25,BCA,6.28,3,2,0,5,3,3,4,3,1,4,Data Science,No,4,1,Cybersecurity Specialist
+846,Vikram,19,B.Tech IT,9.99,5,5,3,5,3,3,0,5,3,2,Design,Yes,4,5,Data Analyst
+847,Sneha,22,B.Com,7.68,3,0,5,3,1,4,3,3,1,1,Data Science,No,4,0,Web Developer
+848,Aarav,24,BBA,6.17,1,0,0,1,2,4,5,5,1,5,Design,No,6,5,Web Developer
+849,Neha,23,MCA,9.41,5,5,5,3,5,0,1,5,1,4,Cybersecurity,Yes,0,5,Machine Learning Engineer
+850,Vikram,19,B.Tech Electronics,9.68,1,5,2,2,1,2,3,4,3,3,Business,Yes,5,3,Business Analyst
+851,Rahul,20,B.Sc Computer Science,8.23,5,1,3,0,2,2,4,3,4,3,Cybersecurity,Yes,5,2,Cybersecurity Specialist
+852,Aarav,19,BBA,7.25,4,2,5,3,2,2,3,2,4,2,Programming,Yes,2,2,Database Administrator
+853,Riya,19,B.Sc Computer Science,8.33,5,4,1,3,4,5,0,5,3,5,Data Science,Yes,1,5,Machine Learning Engineer
+854,Sneha,24,B.Tech Electronics,6.58,3,1,3,0,5,2,4,5,3,4,Cybersecurity,Yes,5,1,Cybersecurity Specialist
+855,Vikram,18,B.Sc Computer Science,8.19,3,5,1,1,1,3,5,1,4,2,Business,Yes,2,0,Cybersecurity Specialist
+856,Vikram,21,B.Tech Computer Science,9.43,4,4,4,1,3,1,4,4,4,5,Cybersecurity,No,6,5,Cybersecurity Specialist
+857,Sneha,23,B.Tech Electronics,7.73,3,2,0,5,1,2,5,2,3,5,Data Science,Yes,1,4,Data Analyst
+858,Arjun,23,B.Tech IT,9.23,5,1,3,2,4,0,3,2,3,5,Cybersecurity,No,7,4,UI/UX Designer
+859,Aarav,19,BCA,6.09,4,3,5,1,0,5,2,5,1,3,Artificial Intelligence,No,4,5,Web Developer
+860,Riya,25,BBA,8.82,2,2,4,5,5,2,2,4,2,4,Data Science,No,2,4,UI/UX Designer
+861,Ananya,23,B.Tech Computer Science,9.88,1,0,4,0,4,3,5,3,5,1,Data Science,Yes,3,4,Cybersecurity Specialist
+862,Sneha,20,B.Tech Computer Science,8.6,4,0,3,4,5,5,3,1,3,1,Business,No,6,5,Data Analyst
+863,Rahul,20,B.Com,6.73,3,2,3,0,1,2,3,3,2,4,Data Science,Yes,5,5,UI/UX Designer
+864,Aarav,23,MCA,9.01,5,0,4,0,5,2,0,3,1,5,Data Science,Yes,8,0,UI/UX Designer
+865,Ananya,23,BBA,7.23,5,1,1,5,4,3,1,5,3,1,Cybersecurity,Yes,5,0,Data Analyst
+866,Ananya,23,BCA,9.57,2,0,4,0,4,0,2,5,2,4,Programming,Yes,5,5,UI/UX Designer
+867,Neha,20,B.Tech IT,7.99,5,3,5,4,3,3,0,2,5,3,Design,Yes,5,1,Data Analyst
+868,Riya,20,B.Sc Computer Science,9.84,4,2,0,3,5,5,4,2,4,1,Artificial Intelligence,Yes,5,4,Web Developer
+869,Neha,24,B.Sc Computer Science,7.13,2,5,3,3,3,3,0,4,2,3,Web Development,Yes,7,0,Database Administrator
+870,Aarav,25,BBA,7.22,3,1,0,2,4,5,4,1,5,1,Cybersecurity,Yes,5,5,Web Developer
+871,Aarav,18,B.Tech Computer Science,9.87,4,0,5,3,5,4,4,2,3,5,Business,Yes,8,2,Web Developer
+872,Priya,21,B.Tech IT,7.83,2,5,1,3,1,4,5,2,3,1,Cybersecurity,Yes,0,3,Web Developer
+873,Riya,19,B.Tech Electronics,6.02,2,1,2,3,0,1,1,3,2,4,Cybersecurity,Yes,4,3,UI/UX Designer
+874,Sneha,22,B.Sc Computer Science,9.76,3,3,3,2,1,3,2,4,1,4,Cybersecurity,Yes,6,0,UI/UX Designer
+875,Vikram,20,B.Sc Computer Science,6.28,1,0,1,4,2,1,5,1,2,4,Programming,No,4,4,Cybersecurity Specialist
+876,Priya,22,B.Tech Electronics,6.43,1,4,3,1,1,4,0,4,2,1,Web Development,No,1,0,Web Developer
+877,Priya,18,BBA,6.74,1,2,3,5,1,3,4,2,4,5,Business,Yes,8,1,Data Analyst
+878,Priya,23,B.Tech Computer Science,8.28,2,2,3,1,5,0,3,3,3,2,Web Development,Yes,4,4,Data Scientist
+879,Rahul,20,B.Sc Computer Science,7.34,4,1,4,4,2,4,1,1,4,1,Data Science,No,0,0,Data Analyst
+880,Rahul,24,B.Tech Computer Science,8.47,2,1,0,5,1,0,3,3,3,1,Artificial Intelligence,Yes,6,4,Data Analyst
+881,Vikram,21,B.Tech Computer Science,8.25,1,5,3,2,5,4,3,1,4,5,Web Development,Yes,7,4,Machine Learning Engineer
+882,Aarav,23,MCA,7.92,2,1,1,2,5,5,1,4,5,3,Web Development,No,2,2,Web Developer
+883,Sneha,24,B.Tech Electronics,6.58,4,3,1,5,2,1,3,4,5,2,Web Development,No,7,5,Data Analyst
+884,Kiran,25,BBA,7.85,3,5,4,1,1,1,5,3,4,2,Data Science,Yes,5,3,Cybersecurity Specialist
+885,Neha,24,B.Com,8.58,2,0,4,5,3,2,4,4,2,4,Web Development,Yes,3,1,Cybersecurity Specialist
+886,Priya,20,BBA,9.75,4,5,1,3,4,5,1,2,4,1,Programming,Yes,6,4,Machine Learning Engineer
+887,Aarav,20,BBA,7.27,2,4,4,4,5,5,0,2,4,3,Design,Yes,1,0,Machine Learning Engineer
+888,Ananya,18,B.Tech Computer Science,7.33,1,5,1,1,2,0,2,3,3,2,Cybersecurity,No,7,3,Cybersecurity Specialist
+889,Priya,22,B.Tech Electronics,6.41,5,3,0,4,4,3,1,2,2,2,Cybersecurity,No,4,5,Database Administrator
+890,Riya,19,BCA,9.64,1,3,3,3,1,0,4,1,2,4,Design,No,7,4,Cybersecurity Specialist
+891,Priya,20,MCA,9.58,4,0,2,0,1,1,4,5,3,3,Programming,No,2,0,Cybersecurity Specialist
+892,Vikram,23,B.Tech Electronics,8.85,1,0,4,4,3,1,2,3,5,4,Business,No,3,4,Data Analyst
+893,Kiran,18,MCA,7.27,2,2,3,3,2,0,2,1,2,3,Design,No,1,2,Database Administrator
+894,Neha,18,BCA,9.49,5,2,3,1,3,3,3,1,5,1,Artificial Intelligence,No,6,2,Data Scientist
+895,Rahul,24,BBA,8.83,2,1,3,2,2,0,3,3,3,5,Design,Yes,5,4,UI/UX Designer
+896,Aarav,18,BCA,9.22,1,2,0,1,4,1,0,2,1,2,Business,Yes,0,5,Business Analyst
+897,Rahul,23,B.Tech IT,6.62,4,0,0,5,1,1,5,3,1,5,Artificial Intelligence,Yes,1,5,Cybersecurity Specialist
+898,Ananya,18,BBA,9.17,2,3,2,5,4,1,3,2,1,1,Business,Yes,7,4,Business Analyst
+899,Priya,25,B.Tech Electronics,8.93,5,4,0,0,1,1,2,1,4,2,Data Science,Yes,1,5,Data Scientist
+900,Priya,20,B.Com,9.03,2,2,4,3,4,5,2,2,4,5,Data Science,No,4,2,Web Developer
+901,Rahul,18,B.Tech Electronics,7.13,2,3,2,5,0,4,3,1,1,1,Artificial Intelligence,No,0,5,Web Developer
+902,Neha,23,B.Com,8.79,5,5,2,3,2,5,3,1,5,3,Programming,No,4,3,Web Developer
+903,Aarav,21,B.Sc Computer Science,8.35,1,3,2,3,3,3,3,3,4,4,Data Science,Yes,6,3,UI/UX Designer
+904,Sneha,20,B.Com,7.53,2,3,5,1,1,4,1,4,3,1,Data Science,Yes,0,3,Web Developer
+905,Sneha,20,B.Tech Electronics,7.35,1,2,4,2,1,1,3,4,4,2,Cybersecurity,No,6,3,Data Analyst
+906,Ananya,18,B.Com,9.85,1,2,1,1,4,3,1,3,4,5,Web Development,No,0,2,UI/UX Designer
+907,Sneha,23,B.Tech Electronics,8.74,4,1,4,2,2,5,2,5,1,5,Business,Yes,5,4,Web Developer
+908,Priya,19,B.Tech Computer Science,7.79,4,5,1,2,5,3,2,2,2,3,Cybersecurity,No,5,5,Machine Learning Engineer
+909,Riya,20,B.Com,9.13,5,1,1,3,4,3,0,2,5,5,Programming,Yes,6,1,UI/UX Designer
+910,Priya,23,B.Tech IT,8.12,4,3,3,1,2,5,1,5,3,1,Programming,Yes,7,1,Web Developer
+911,Aarav,18,B.Com,7.42,5,2,2,3,2,4,4,4,5,2,Data Science,Yes,1,2,Web Developer
+912,Ananya,21,B.Tech Electronics,6.99,4,2,1,1,2,0,0,4,1,3,Design,No,1,2,UI/UX Designer
+913,Ananya,25,BBA,8.22,5,2,3,2,1,5,4,4,3,1,Web Development,No,2,4,Web Developer
+914,Ananya,23,B.Tech Computer Science,6.5,3,1,2,5,3,4,0,5,4,3,Design,No,5,3,Data Analyst
+915,Ananya,23,B.Tech Computer Science,8.57,3,4,0,5,5,5,1,5,5,1,Web Development,Yes,1,1,Machine Learning Engineer
+916,Arjun,19,BCA,9.76,2,2,0,3,2,0,3,1,3,3,Web Development,Yes,8,3,Database Administrator
+917,Aarav,20,B.Tech IT,9.26,4,1,1,0,5,5,4,2,1,3,Artificial Intelligence,Yes,3,3,Web Developer
+918,Arjun,18,B.Sc Computer Science,9.03,2,2,3,5,5,3,0,2,5,3,Cybersecurity,No,7,0,Data Analyst
+919,Ananya,19,B.Tech Computer Science,6.8,1,3,0,2,5,0,4,2,2,5,Programming,Yes,6,1,Cybersecurity Specialist
+920,Sneha,18,B.Tech Electronics,7.06,3,1,4,2,2,1,2,5,4,2,Programming,No,1,5,Web Developer
+921,Vikram,18,MCA,8.41,5,0,0,3,0,5,1,4,2,2,Data Science,No,3,4,Web Developer
+922,Arjun,23,MCA,6.22,2,4,0,2,0,1,1,5,3,2,Business,No,3,3,Business Analyst
+923,Riya,23,MCA,9.94,5,4,4,2,5,1,0,2,4,4,Cybersecurity,Yes,0,0,Machine Learning Engineer
+924,Neha,18,B.Tech Computer Science,9.79,1,5,4,1,0,0,2,3,4,4,Data Science,Yes,6,5,UI/UX Designer
+925,Rahul,19,B.Tech Electronics,7.67,1,2,1,2,3,1,0,3,1,1,Design,Yes,7,1,Software Developer
+926,Arjun,19,B.Sc Computer Science,7.82,5,0,5,4,3,0,5,5,3,3,Design,Yes,3,0,Data Analyst
+927,Aarav,24,B.Tech Computer Science,6.15,4,0,4,0,5,0,2,4,4,2,Design,No,7,1,Web Developer
+928,Rahul,22,B.Sc Computer Science,6.94,4,3,4,5,3,1,5,1,1,5,Business,Yes,4,2,Cybersecurity Specialist
+929,Riya,23,MCA,9.28,5,5,4,4,1,2,5,2,3,3,Design,No,6,1,Data Analyst
+930,Neha,24,B.Com,7.87,3,5,4,3,2,3,0,3,2,4,Cybersecurity,No,2,2,UI/UX Designer
+931,Arjun,25,MCA,9.01,2,5,1,4,2,4,5,1,3,5,Business,Yes,2,1,Data Analyst
+932,Rahul,19,BBA,9.52,5,0,4,0,2,4,5,5,1,5,Data Science,Yes,5,3,Web Developer
+933,Priya,23,B.Com,8.19,4,4,2,5,3,5,0,5,4,2,Data Science,No,2,5,Data Analyst
+934,Rahul,18,B.Tech IT,7.98,1,2,1,4,5,0,1,3,2,4,Artificial Intelligence,Yes,0,2,UI/UX Designer
+935,Neha,21,BCA,9.31,1,0,3,2,5,3,0,1,3,4,Design,No,5,3,UI/UX Designer
+936,Sneha,21,B.Tech Electronics,7.71,5,0,5,3,0,3,2,4,5,5,Programming,Yes,4,5,UI/UX Designer
+937,Rahul,24,B.Tech IT,7.69,5,0,3,0,3,0,3,5,3,4,Programming,Yes,1,1,UI/UX Designer
+938,Ananya,25,BBA,9.0,2,2,2,4,5,3,1,5,4,1,Cybersecurity,No,1,0,Data Analyst
+939,Ananya,18,MCA,6.28,2,3,4,5,5,0,2,4,3,5,Cybersecurity,Yes,8,3,Data Analyst
+940,Arjun,25,B.Tech Electronics,9.41,1,3,0,5,1,0,1,3,5,3,Web Development,No,3,0,Data Analyst
+941,Riya,20,BBA,6.18,2,3,1,5,3,5,0,2,3,5,Artificial Intelligence,Yes,2,1,Data Analyst
+942,Rahul,18,MCA,7.98,4,5,4,0,3,3,0,1,5,3,Programming,No,8,5,Cloud Engineer
+943,Kiran,19,B.Tech IT,7.05,3,1,1,0,0,1,0,4,4,5,Cybersecurity,Yes,3,3,UI/UX Designer
+944,Kiran,23,B.Tech Electronics,7.91,2,4,0,1,1,1,2,5,4,1,Data Science,No,0,2,Software Developer
+945,Rahul,18,B.Tech IT,8.1,3,2,1,2,1,3,1,5,5,1,Data Science,No,7,3,Machine Learning Engineer
+946,Arjun,20,BBA,8.21,5,4,1,0,3,4,0,1,2,2,Cybersecurity,Yes,3,5,Web Developer
+947,Priya,23,B.Sc Computer Science,9.31,4,2,3,0,1,5,5,1,4,1,Programming,No,7,4,Web Developer
+948,Rahul,20,MCA,8.46,5,4,4,2,3,0,3,4,2,2,Cybersecurity,Yes,6,0,Business Analyst
+949,Riya,20,B.Tech Computer Science,7.48,4,2,4,4,2,2,3,3,4,3,Cybersecurity,No,6,5,Data Analyst
+950,Neha,20,MCA,7.35,4,4,5,0,2,5,2,3,5,5,Programming,No,8,1,Web Developer
+951,Vikram,23,B.Sc Computer Science,8.26,3,4,5,3,2,2,4,3,2,3,Web Development,Yes,2,5,Cybersecurity Specialist
+952,Neha,21,B.Com,8.85,5,4,4,1,0,5,5,3,2,4,Programming,Yes,3,4,Web Developer
+953,Kiran,20,MCA,7.5,4,3,4,2,1,2,4,4,3,5,Artificial Intelligence,No,1,3,Cybersecurity Specialist
+954,Sneha,24,B.Tech Computer Science,6.27,3,4,2,4,4,3,1,4,4,5,Programming,Yes,6,5,Machine Learning Engineer
+955,Arjun,19,MCA,7.75,3,0,2,0,0,0,2,1,2,2,Artificial Intelligence,No,2,0,Data Scientist
+956,Riya,21,B.Tech Computer Science,9.57,5,2,4,5,2,2,3,1,1,1,Data Science,Yes,3,4,Database Administrator
+957,Riya,22,B.Com,9.36,2,2,1,1,3,1,4,1,5,5,Cybersecurity,Yes,2,0,Cybersecurity Specialist
+958,Vikram,22,MCA,6.5,2,3,4,1,1,1,2,4,2,2,Artificial Intelligence,Yes,3,5,Data Scientist
+959,Vikram,24,BBA,7.78,2,5,3,3,1,5,3,1,1,4,Business,No,0,4,Web Developer
+960,Rahul,21,MCA,7.75,5,3,4,4,3,3,4,3,3,1,Data Science,No,2,5,Data Analyst
+961,Priya,24,BCA,9.15,2,3,2,1,5,2,1,2,3,3,Web Development,No,0,5,Database Administrator
+962,Vikram,19,MCA,8.85,1,2,3,0,3,3,5,4,5,3,Web Development,No,1,3,Cybersecurity Specialist
+963,Neha,23,B.Sc Computer Science,7.08,3,1,4,5,4,4,4,4,2,2,Business,Yes,0,3,Web Developer
+964,Vikram,18,B.Sc Computer Science,6.36,2,0,2,0,4,2,3,1,5,5,Data Science,No,2,3,UI/UX Designer
+965,Arjun,20,B.Sc Computer Science,7.64,2,0,4,0,4,5,5,5,1,2,Data Science,No,8,3,Web Developer
+966,Ananya,20,B.Sc Computer Science,6.07,2,0,2,1,4,0,3,5,1,1,Cybersecurity,No,2,1,Business Analyst
+967,Priya,21,B.Tech Computer Science,7.3,2,4,4,0,3,1,1,3,5,1,Artificial Intelligence,No,2,1,Data Scientist
+968,Kiran,23,B.Tech Electronics,7.85,4,1,5,4,0,0,3,2,1,2,Data Science,Yes,4,3,Database Administrator
+969,Ananya,25,BBA,8.2,4,2,4,4,5,5,3,5,4,5,Business,No,8,3,Data Analyst
+970,Sneha,25,BCA,9.22,2,2,0,4,3,3,3,1,5,3,Programming,No,0,2,Data Analyst
+971,Arjun,21,B.Tech Computer Science,6.86,2,5,2,3,1,1,0,4,5,2,Data Science,No,4,3,Database Administrator
+972,Arjun,25,MCA,7.49,2,0,1,1,5,0,2,4,2,4,Programming,Yes,5,3,UI/UX Designer
+973,Ananya,24,B.Tech IT,8.39,3,0,3,0,2,2,1,5,5,4,Programming,Yes,0,0,UI/UX Designer
+974,Kiran,22,B.Tech Computer Science,6.1,2,3,3,2,4,3,2,5,3,1,Cybersecurity,No,4,2,Software Developer
+975,Sneha,19,MCA,9.03,4,5,5,4,4,0,1,5,1,5,Business,No,5,5,Machine Learning Engineer
+976,Riya,22,BCA,6.57,2,2,3,1,0,0,2,1,5,4,Artificial Intelligence,Yes,3,3,UI/UX Designer
+977,Sneha,21,BBA,9.2,2,2,1,0,0,1,0,4,5,5,Programming,No,1,1,UI/UX Designer
+978,Riya,20,MCA,6.46,4,3,2,4,4,4,5,3,5,3,Programming,No,8,1,Data Analyst
+979,Ananya,22,B.Sc Computer Science,6.9,1,2,4,2,3,5,3,4,4,3,Artificial Intelligence,No,4,0,Web Developer
+980,Rahul,21,B.Sc Computer Science,9.52,2,5,4,4,2,3,5,4,2,1,Web Development,No,5,2,Cybersecurity Specialist
+981,Priya,21,BCA,8.49,1,3,3,1,3,3,0,3,1,4,Programming,No,1,2,UI/UX Designer
+982,Arjun,25,MCA,9.71,4,3,1,2,1,4,1,5,2,4,Programming,Yes,5,4,Web Developer
+983,Ananya,19,B.Tech IT,6.33,1,3,0,5,5,1,0,2,5,4,Artificial Intelligence,No,2,0,Data Analyst
+984,Ananya,22,B.Com,8.71,3,1,2,2,0,0,4,5,1,1,Artificial Intelligence,Yes,0,1,Cybersecurity Specialist
+985,Kiran,24,MCA,6.43,5,0,4,2,1,0,3,3,5,5,Cybersecurity,No,2,5,UI/UX Designer
+986,Arjun,19,MCA,8.43,3,5,1,5,3,3,2,1,4,3,Cybersecurity,No,4,5,Data Analyst
+987,Sneha,24,B.Sc Computer Science,9.18,3,3,1,5,1,0,0,3,2,2,Artificial Intelligence,Yes,2,0,Data Scientist
+988,Aarav,20,BCA,8.89,3,1,5,3,3,3,0,3,3,5,Design,No,3,3,UI/UX Designer
+989,Neha,23,BCA,7.56,3,2,3,1,3,3,5,1,1,1,Web Development,No,7,1,Cybersecurity Specialist
+990,Riya,24,B.Com,9.83,5,2,3,0,3,2,1,2,1,2,Artificial Intelligence,Yes,3,4,Data Scientist
+991,Kiran,25,B.Tech Electronics,9.63,2,5,2,5,2,4,2,4,1,1,Programming,Yes,1,3,Web Developer
+992,Riya,21,B.Sc Computer Science,6.59,5,4,4,4,4,1,3,3,5,4,Business,Yes,7,5,Machine Learning Engineer
+993,Priya,22,MCA,6.18,3,5,0,3,3,3,4,1,4,5,Cybersecurity,Yes,5,4,Cybersecurity Specialist
+994,Arjun,25,B.Tech Electronics,7.2,1,3,2,0,4,1,0,2,5,3,Data Science,No,3,3,Software Developer
+995,Priya,18,B.Tech IT,9.21,3,0,4,5,5,2,4,5,5,4,Design,Yes,7,4,Data Analyst
+996,Aarav,22,B.Tech IT,9.42,4,4,5,1,0,5,3,5,3,2,Artificial Intelligence,No,3,3,Web Developer
+997,Kiran,19,BCA,9.72,3,3,1,3,1,5,1,2,3,3,Programming,Yes,4,2,Web Developer
+998,Riya,19,B.Tech IT,9.93,1,2,1,0,3,2,0,1,2,1,Cybersecurity,No,8,0,UI/UX Designer
+999,Ananya,22,B.Tech IT,7.43,1,1,4,2,5,0,4,3,2,4,Business,Yes,1,1,Cybersecurity Specialist
+1000,Priya,23,BCA,8.09,5,0,2,3,3,0,4,2,4,3,Business,No,3,1,Cybersecurity Specialist

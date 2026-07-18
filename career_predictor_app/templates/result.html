@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your Career Match — Career Compass</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header class="masthead result-masthead">
+    <div class="eyebrow">YOUR RESULT</div>
+    <h1>{{ predicted_career }}</h1>
+    <p class="subhead">This is the closest match to your profile out of all careers modeled.</p>
+  </header>
+
+  <main class="wrap">
+    <section class="panel">
+      <h2>Top 5 matches</h2>
+      <ul class="bar-list">
+        {% for row in top5 %}
+        <li>
+          <span class="bar-label">{{ row.Career }}</span>
+          <span class="bar-track">
+            <span class="bar-fill" style="width: {{ row.Suitability }}%;"></span>
+          </span>
+          <span class="bar-pct">{{ "%.1f"|format(row.Suitability) }}%</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    {% if roadmap_image %}
+    <section class="panel">
+      <h2>Route to {{ predicted_career }}</h2>
+      <img class="roadmap-img" src="{{ url_for('static', filename=roadmap_image) }}" alt="Roadmap to {{ predicted_career }}">
+    </section>
+    {% endif %}
+
+    <a href="/" class="submit-btn secondary">← Try another profile</a>
+  </main>
+</body>
+</html>
